@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "lat-repo"
+version = "0.1.0"
+description = ""
+authors = ["AKAAka1450 <58277892+AKAAka1450@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "lat_repo"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^1.5.3"
+notebook = "^6.5.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
