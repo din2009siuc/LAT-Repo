@@ -10,6 +10,7 @@ packages = [{include = "lat_repo"}]
 python = "^3.11"
 pandas = "^1.5.3"
 notebook = "^6.5.2"
+openai = "^0.27.2"
 
 
 [build-system]
