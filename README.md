@@ -5,8 +5,5 @@
  #### 系級：資工114
 ***
 # 目錄  
-
-* [**課程筆記**]()
-* **作業連結** 
++ **作業連結** 
     - [HW1](https://github.com/din2009siuc/LAT-Repo/blob/main/hw1.ipynb)
-+ [**專題連結**]()
