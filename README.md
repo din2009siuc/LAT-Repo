@@ -6,4 +6,4 @@
 ***
 # 目錄  
 + **作業連結** 
-    - [HW1](https://github.com/din2009siuc/LAT-Repo/blob/main/hw1.ipynb)
+    - [HW1, HW2](https://github.com/din2009siuc/LAT-Repo/blob/main/hw1-2.ipynb)
