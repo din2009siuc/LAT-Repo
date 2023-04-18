@@ -1,0 +1,889 @@
+Humanitas Indonesian Psychological Journal                                                 
+Vol. 18 (2), August 2021, 100-111 
+ISSN:  2598-6368(online); 1693-7236(print)                                                                 
+
+
+Celebrity worship and body image among young girls fans of K-pop 
+girl groups 
+
+Kadek Ayu Anatasya Divina Tresna, Monique Elizabeth Sukamto, Marselius Sampe 
+Tondok 
+Faculty of Psychology, Universitas Surabaya, Indonesia 
+Corresponding author: monique@staff.ubaya.ac.id 
+ 
+ 
+ 
+
+                          
+ART ICLE    INFO              ABST RACT     
+
+                              Currently, K-pop girl groups are some of the favorite celebrities who 
+Article history               often become the ideal standard for young girls. K-pop girl figures 
+Received January 6, 2021      are often displayed with ideal body standards, such as having a slim 
+Revised July 15, 2021         body, white skin, thin face, and high nose, thus making fans adore 
+Accepted July 22, 2021 
+                              and  want  to  have  a  physical  appearance  like  their  idol.  This  study 
+                              aimed  to  examine  the  relationship  between  celebrity worship  and 
+Keywords                      body  image  among  female  adolescents  who  idolized  K-pop girl 
+adolescent;                   groups.  A  sample  of  414  female  adolescents  aged  18-22  years 
+body image;                   participated  online  in  the  current  study  by  filling  in  the  Celebrity 
+celebrity worship; 
+K-pop girl groups.            Attitude Scale (CAS) and the Multidimensional Body-Self Relation 
+                              Questionnaire-Appearance  Scale  (MBSRQ-AS).  Results  showed 
+                              that  the  entertainment-social  aspect  of  celebrity  worship  proved  a 
+                              significant  positive correlation  with  the  appearance  orientation 
+                              dimension  of  body  image.  In  contrast, the  borderline-pathological 
+                              aspect  had  a significant  negative correlation  with  the  body  areas 
+                              satisfaction  dimension.  Nonetheless,  the  intense personal  aspect  of 
+                              celebrity worship did not correlate significantly with all dimensions 
+                              of body image among young girls fans of K-pop girl groups. Thus, 
+                              each  level  of  celebrity  worship  correlates  differently  with  each 
+                              dimension of body image. Entertainment-social is the most common 
+                              celebrity worship among adolescent girls fans of K-pop girl groups 
+                              and affects young girls' body image by increasing their attention to 
+                              appearance.   
+
+
+Introduction 
+Adolescence is a transition period from childhood to adulthood, including physical, socio-
+emotional,  and  cognitive  changes  (Santrock,  2007).  In  adolescence,  individuals  have 
+several developmental tasks related to their physical and psychological maturity. One thing 
+that must be fulfilled is that adolescents can accept their physical conditions. However, in 
+reality, adolescents,  particularly  girls, possess  a  sense  of  dissatisfaction  with  their  body 
+shape. Adolescents' dissatisfaction with their body shape increases from junior high school 
+to senior high school and continues to increase until late adolescence and early adulthood 
+(Bucchianeri, Arikan, Hannan, Eisenberg, & Neumark-Sztainer, 2013).  
+        According  to Burns  (1993),  body  image  is  the  perception  of  an  individual  body 
+shape. Each individual has the ideal body standard. Adolescent girls have body standards 
+       
+
+      humanitas@psy.uad.ac.id                                                                                          http://dx.doi.org/10.26555/humanitas.v18i2.19392 
+
+  
+Humanitas Indonesian Psychological Journal                             101 
+ 
+
+that are more concerned with physical appearance and a proportional body shape (Denich 
+&  Ifdil,  2015).  Body  image  consists  of  five  dimensions: appearance  orientation, 
+appearance  evaluation,  body-areas  satisfaction,  self-classified  weight,  and  overweight 
+preoccupation (Cash,  2000).  Appearance  evaluation  is  the  feelings  of  attractiveness  or 
+unattractiveness  and  satisfaction  or  dissatisfaction  with  one’s  physical  appearance. 
+Appearance  orientation  shows  how individuals  consider important  and  pay  attention  to 
+their physical appearance and individual efforts to improve their appearance. Body-areas 
+satisfaction focuses on individuals’ satisfaction with their specific body parts, such as face, 
+chest,  stomach,  buttocks,  shoulders,  and  so  on.  Overweight  preoccupation  focuses  on 
+individuals’ anxiety about fatness, dieting behavior, weight vigilance, and eating restraint. 
+Self-classified  weight  is  an  individual's  perception  of  their  weight,  whether  classified  as 
+underweight, normal, or overweight. 
+      Factors that influence body image come from family, biological, media, and peer 
+factors (Burns,  1993).  Media  is  one  of  the  most  influential  factors  in  body  image.  The 
+media presents pictures of female figures' ideal body shape, which can affect the individual 
+body  image.  The  negative  impact of  the  media  causes  individuals  to  overstate  the  ideal 
+bodies so that individuals will always compare their body shape, go on a diet, and suffer 
+from eating disorders. Body dissatisfaction in women increases when individuals compare 
+their body shape with celebrities who possess slim bodies (Heinberg & Thompson, 1992). 
+The psychological influence of the media gives rise to parasocial relationships with figures 
+in the media. A parasocial relationship is a one-way relationship that the fans imagine with 
+their idols that can influence adolescents’ behaviors (Giles & Maltby, 2004).  
+    Lately, in Indonesia, the Korean wave or Hallyu phenomenon is frequently seen as a 
+term for Korean fever related to the entertainment world of South Korea like films, dramas, 
+music, fashion, food, and its traditional culture (Hennida, 2013). Korean pop or K-pop, an 
+enormously popular genre of music from South Korea, is increasingly known in Indonesia. 
+Adolescents  dominate K-pop  fans  in  Indonesia.  A  survey  conducted  of  100  K-pop  fans 
+showed around 57% of respondents were in their teens and early adulthood (12-20 years 
+old), 42% of respondents were 21-30 years old, and 1% were aged over 30 years (Nurani, 
+2017).  The  K-pop  music  genre  is  well  known  for  both  boy and girl groups,  and  this 
+research focuses on girl groups. Girl groups’ figures are often displayed with ideal body 
+standards, such as having a slim body, tall, fair skin, thin face, and high nose, encouraging 
+girl groups fans to look like their idols constantly. 
+    The above phenomenon shows fans' admiration for their idols and illustrates a form 
+of celebrity worship. Celebrity worship is defined as a parasocial relationship or one-sided 
+relationship, which means that the individual knows about the celebrity but not the other 
+way  around (Maltby,  Giles,  Barber,  &  McCutcheon,  2005). Maltby  et  al.  (2005) 
+distinguish celebrity worship into three aspects according to its level: entertainment-social, 
+intense-personal,  and  borderline-pathological.  Entertainment-social  is  the  lowest  level  of 
+celebrity worship related to a celebrity’s ability to entertain and attract the attention of his 
+or her fans. The intense-personal aspect involves a feeling that is intense and compulsive 
+toward celebrities. Borderline-pathological is the most extreme level of celebrity worship, 
+which is indicated by the willingness to do anything for a favorite celebrity. 
+    Based on a previous study by Maltby et al. (2005), there was a significant relationship 
+between the  intense-personal  aspect  of celebrity  worship  and  body  image  in adolescent 
+girls.  Furthermore, a  study by Jung and Hwang (2016) among  female  college  students 
+showed that attitudes toward favorite celebrities were positively associated with acceptance 
+for cosmetic surgery, which is also a body image issue.  
+
+
+Tresna et al. (Celebrity worship and body image among young girls fans of K-pop girl groups) 
+102                                                                       
+                                                      ISSN 2598-6368 (online) / ISSN 1693-7236 (print) 
+                                                                         
+
+    The two previous studies of celebrity worship have not been conducted on fans of any 
+particular celebrity. This study will examine the relationship between celebrity worship and 
+body  image,  especially  among  young girls who  adore  K-pop girl groups.  In  contrast  to 
+previous studies that examined overall body image, this study will examine the relationship 
+between each level of celebrity worship and each dimension of body image. The researcher 
+wants to explore the peculiarity of the relationship between each level of celebrity worship 
+and each dimension of body image in young girls who are fans of K-pop girl groups. This 
+study focuses on Korean pop girl groups as these groups are a very popular music genre 
+among young girls in Indonesia today. 
+
+Method 
+This  study  used  a  quantitative  research  method.  Data  were  collected  online  using 
+questionnaires, the Multidimensional Body-Self Relation Questionnaire-Appearance Scale 
+(MBSRQ-AS) developed by Cash (2000), and the Celebrity Attitude Scale developed by 
+Maltby et al. (2005). The researcher asked permission to use the Celebrity Attitude Scale 
+(CAS)  and  the  Multidimensional  Body  Self-Relation  Questionnaire-Appearance  Scale 
+(MBSRQ-AS)  from  the  authors  of  the  two  scales.  The  researcher  forward-translated  the 
+two scales from English (the original version) into Indonesian and then back-translated into 
+English to ensure that the Indonesian version of each scale had the same meaning as the 
+original version. In addition, the researcher also asked for a Content Validity Ratio (CVR) 
+assessment from the experts in psychology. According to Lawshe’s CVR (Wilson, Pan, & 
+Schumsky, 2012), an item is said to have good content validity if the CVR Index is ≥ .5. 
+The CVI values in this study were .900 for MBSRQ-AS and .890 for CAS. This study also 
+used  an  open  questionnaire  to  explore  the  characteristics  of  the  participants.  A  set  of 
+questionnaires  that the  experts  in  psychology  have  approved was  then  compiled  in  a 
+google-form and distributed online. 
+Participants 
+Participants  in  this  study  were  recruited  online.  The  researchers  distributed  the 
+questionnaire on the social media platform Twitter using google forms link through K-pop 
+girl groups fans. Participants in this study were 414 female adolescents aged 18 to 22 years 
+old and Korean pop girl groups fans. Table 1 shows the characteristics of participants.  
+ 
+Table 1  
+Characteristics of Participants (N= 414) 
+ Characteristic          Frequency %   Characteristic       Frequency % 
+ Age (years)                           Education Level                  
+  18                          69  16.7  Senior High School      21    5.1 
+  19                          76  18.4  Diploma III             24    5.8 
+  20                        105   25.4  Diploma IV              14    3.4 
+  21                          87  21.0  Bachelor Degree       296    71.5 
+  22                          77  18.6  Not choosing any        59   14.3 
+                                                                        
+ BMI                                   Listening  to  K-pop girl        
+  Underweight (< 18.5)      113   27.3 group’s songs                    
+  Normal weight (18.5 – 22.9) 171 41.3  Always                295    71.3 
+  Overweight (23-24.9)        54  13    Often                   99   23.9 
+  Obese (≥ 25.0)              76  18.4    Sometimes             20     4.8 
+                                                                        
+ 
+                                                                          
+
+                      Tresna et al. (Celebrity worship and body image among young girls fans of K-pop girl groups) 
+
+                                                                          
+Humanitas Indonesian Psychological Journal                                               103 
+ 
+
+Table 1 (continue) 
+Characteristics of Participants (N= 414) 
+ Characteristic                   Frequency   %    Characteristic            Frequency   % 
+ Reasons for worshipping K-pop                     Length of worshipping K-                
+ girl groups                                       pop girl groups                         
+   Excellent vocals                  330     79.7    Less than 1 year           47      11.4 
+   Attractive appearance and face      297   71.7    1 year                     63      15.2 
+   Excellent songs                   42      10.1    2 years                    66      15.9 
+   Multitalented                     39        9.4   More than 2 years            238   57.5 
+   Many friends idolize              29        7                                           
+   Personality                       18       4.3                                          
+   Unique concept                    11       2.7                                        
+   Nice and powerful dance            6       1.4                                          
+                                                                                           
+ Desiring a body like an idol                      Efforts if feeling dissatisfied         
+   Always                              68    16.4  with body shape                         
+   Often                             135     32.6   Exercising                 147      35.5 
+   Sometimes                         122     29.5   Reducing food portion      144      34.8 
+   Rarely                              58    14.0   Fasting                      33      8 
+   Never                               31      7.5  Taking weight loss pills     10       2.4 
+                                                                                           
+ Comparing self with idol                          Looking  for  information             
+   Always                            23       3.0  about K-pop girl groups                 
+   Often                             74       9.6   Always                     277      66.9 
+   Sometimes                           113   15.2   Often                      110      26.6 
+   Rarely                              103   13.4   Sometimes                    19       4.6 
+   Never                             97      12.6   Rarely                         8      1.9 
+                                                                                           
+ Media to access information  about                Watching idol’s V-Live                  
+ K-pop girl groups                                  Always                       139    33.6 
+   YouTube                           365     88.2   Often                        130    31.4 
+   Twitter                           362     87.4   Sometimes                   78      18.8 
+   Instagram                         346     83.6   Rarely                      50      12.1 
+   V-Live                            171     41.3     Never                     17        4.1 
+   Facebook                            22      5.3                                         
+                                                                                           
+ Buying K-pop girl group’s albums                  Streaming   K-pop   girl                
+   Always                            48      11.6  group’s music video                     
+   Often                             64      15.5   Always                     142      34.3 
+   Sometimes                         73      17.6   Often                      133      32.1 
+   Rarely                            90      21.7   Sometimes                    88     21.3 
+   Never                             139     33.6   Rarely                       44     10.6 
+                                                    Never                          7      1.7 
+ Buying K-pop girl group’s goods or                                                        
+ merchandise                                    
+   Always                            44      31.9 
+   Often                             59      22.2 
+   Sometimes                         87      21.0 
+   Rarely                            92      14.3 
+   Never                              132    10.6 
+ 
+ 
+Instruments 
+Multidimensional Body-Self Relation Questionnaire-Appearance Scale (MBSRQ-AS) 
+The MBSRQ-AS is a 34-item scale (Cash, 2000), but there were five items deleted in the 
+current study because the item discrimination index was less than .250. This scale consists 
+of five dimensions as follows. 
+
+Tresna et al. (Celebrity worship and body image among young girls fans of K-pop girl groups) 
+104                                                                       
+                                                      ISSN 2598-6368 (online) / ISSN 1693-7236 (print) 
+                                                                         
+
+      The appearance evaluation dimension consists of 6-items. Examples  of items are 
+“My body is sexually appealing” and “I like my looks just the way they are”. Each item is 
+rated  on  a  5-scale  ranging  from  1  (definitely  disagree) to 5 (definitely  agree). The 
+reliability coefficient for the current sample was .762, with the item discrimination index 
+ranging from .296 to .683. 
+      The appearance orientation dimension consists of 8-items. Each item is rated on a 
+5-scale ranging from 1 (definitely disagree) to 5 (definitely agree). The sample of items are 
+“Before going out in public, I always notice how I look” and “Before going out, I usually 
+spend a lot of time getting ready”. The reliability coefficient for the current sample was 
+.753, with the item discrimination index ranging from .342 to .581. 
+      The body-areas satisfaction dimension consists of 9-items. Each item is rated on a 
+5-scale  from  1  (very  dissatisfied) to  5  (very  satisfied). The  sample of items are “Face 
+(facial  features,  complexion)” and  “Lower  torso  (buttocks,  hips,  thighs,  and  legs”. The 
+reliability coefficient in  the current sample was .733, with the item discrimination index 
+ranging from .261 to .657. 
+      The overweight preoccupation dimension consists of 4-items. Examples of items are 
+“I constantly worry about being or becoming fat” and “I am very conscious of even small 
+changes in my weight”. Each item is rated on a 5-scale ranging from 1 (definitely disagree) 
+to 5 (definitely agree). The reliability coefficient for the sample in this study was .804, with 
+the item discrimination index ranging from .486 to .662.   
+    The self-classified weight dimension consists of 2 items. Each item is rated on a 5-
+scale  from  1  (very  underweight) to  2  (very  overweight). The  items  are  “I  think  I am 
+very…..”  and  “From  looking  at  me,  most  people  would  think  I  am….”. The  reliability 
+coefficient in the current study was .905. 
+ 
+Celebrity Attitude Scale (CAS) 
+The  CAS  used in  this  study  was  developed by Maltby  et  al.  (2005) and consisted of  22 
+items. In  this  study,  the  items were modified  for  K-pop  fans  by  changing  the  word 
+“celebrity” to “K-pop girl groups”. The items are rated on a 5-point scale with responses 
+ranging from  1  (strongly  disagree) to  5  (strongly  agree). The  items of  this  scale  are 
+categorized  into  three  aspects  according  to  the  level  of  celebrity  worship,  namely: 
+entertainment-social, intense-personal, and borderline-pathological.  
+      The  entertainment-social aspect measures  the  attitudes  and  behaviors of  fans  to 
+their  favorite K-pop girl groups.  Examples  of  the  items  are “My  friends  and  I  like  to 
+discuss what my favorite K-pop girl groups have done” and “I enjoy watching, reading, or 
+listening to my favorite K-pop girl groups because it means a good time”. It consists of 10-
+items.  The  reliability  coefficient  for the sample  in  this  study  was .797,  with the  item 
+discrimination index ranging from .320 to .576. 
+      The  intense-personal  consists  of  9-items.  Examples  of  the  items  are “When  my 
+favorite K-pop girl groups dies, I  will  feel  like  dying  too”  and  “The  successes  of  my 
+favorite K-pop girl groups are my successes too). The reliability coefficient for the current 
+study was .820, with the item discrimination index ranging from .356 to .669. 
+      The borderline-pathological  consists of 3-items.  An example of the item is “If  I 
+were  lucky  enough  to  meet  my  favorite  K-pop girl groups and  they  asked  me  to  do 
+something  illegal  as  a  favor,  I  would  probably  do  it”.  The  reliability  coefficient  for  the 
+current sample  was .502,  with  the  item discrimination  index  ranging  from  .290  to .356. 
+Alphas for the borderline-pathological tend to be lower because this aspect is the shortest 
+of the three aspects, comprising few items (McCutcheon, Scott, Aruguete, & Parker, 2006).  
+
+                                                                          
+
+                      Tresna et al. (Celebrity worship and body image among young girls fans of K-pop girl groups) 
+
+                                                                          
+Humanitas Indonesian Psychological Journal                             105 
+ 
+
+Data Analysis 
+The  collected  data  were imported  into  SPSS  version  24.0.  Spearman’s  correlation 
+coefficient analyses were conducted to test the correlations between aspects of the Celebrity 
+Attitude  Scale  (CAS)  and  dimensions  of the Multidimensional  Body-Self  Relation 
+Questionnaire-Appearance Scale (MBSRQ-AS). 
+      In  this  study,  the  data  distribution  is  not  normally  distributed  because  the 
+significance value is less than .05. Therefore, hypothesis testing used a non-parametric test 
+(Spearman correlation). The hypothesis is accepted if the significance value (p) < .05. 
+
+Results 
+Table 2 
+Correlation of Celebrity Worship and Body Image 
+                                       Aspects of Celebrity 
+                                                                 
+      Dimensions of                        Worship 
+       Body Image        Entertainment-
+                                        Intense-Personal Borderline-Pathological 
+                           Social 
+    Appearance Evaluation                                        
+           r                - .051          .121                       - .016 
+          Sig.                .304          .076               .740 
+   Appearance Orientation                                        
+           r                  .108*         .043               .305 
+          Sig.              .028            .381               .051 
+   Body-Areas Satisfaction                                       
+           r                - .021          .036              - .133** 
+          Sig.                .671          .467               .007 
+  Overweight Preoccupation                                       
+           r                .052            .055               .081 
+          Sig.              .288            .262               .101 
+    Self-Classified Weight                                       
+           r                    - .089               - .041                -.005 
+          Sig.                    .070      .401                        .923 
+*   p < .05 (2-tailed) 
+** p < .01 (2-tailed) 
+       
+    Based  on Table  2,  the  correlation  value between  the entertainment  social  and 
+appearance orientation was .108 with a significance value of .028 (Sig. < .05), which means 
+a significant positive correlation between entertainment social and appearance orientation. 
+The  significance  value  of  the  correlation  between  intense-personal  and  appearance 
+orientation and borderline-pathological and appearance orientation were insignificant (Sig. 
+> .05), which meant that the intense-personal and borderline-pathological aspects were not 
+significantly correlated with the appearance orientation dimension. 
+    The  correlation  between  borderline-pathological  and  body-area  satisfaction  is -.133 
+(Sig.  < .05). This  result means  that  there  is  a  significant  negative  correlation  between 
+borderline-pathological and body area satisfaction. The higher the borderline-pathological 
+aspect,  the  lower  the  individual's  body  satisfaction,  which  means  the  individual  is 
+increasingly dissatisfied with the size or appearance of some body parts. The three aspects 
+of celebrity worship were not significantly correlated with three of five dimensions of body 
+image: appearance evaluation, overweight preoccupation, and self-classified weight. 
+ 
+ 
+ 
+ 
+ 
+
+Tresna et al. (Celebrity worship and body image among young girls fans of K-pop girl groups) 
+106                                                                       
+                                                      ISSN 2598-6368 (online) / ISSN 1693-7236 (print) 
+                                                                         
+
+Table 3 
+Cross-Tabulation between BMI and Self-Classified Weight 
+                                Self-Classified Weight 
+     BMI                                                           Total 
+                VUW        UW        NW         OW        VOW 
+  Underweight    26        53         31              2     1       113 
+                   23%         46.9%       27.4%          1.8%       0.9%   100% 
+ Normal weight    3        10         87            64      7       171 
+                      1.8%         5.8%       50.9%        37.4%       4.1%    100% 
+  Overweight      0         1           7           36         10    54 
+                   0%           1.9%       13.2%        66.7%         18.9%    100% 
+    Obese         1         0           3           41         31    76 
+                     1.3%     0%           3.9%        53.9%         40.8%    100% 
+VUW= very underweight, UW= underweight, NW= normal weight, OW= overweight, VOW= very 
+overweight 
+ 
+    Table 3 shows the cross-tabulation between the participants' body mass index (BMI) 
+and self-classified weight dimension. The participants' self-classified weights were likely 
+to  suit  the  BMIs,  except  for  obese, more  participants classified  their  weight  overweight 
+(53.9%) than very overweight (40.8%). 
+ 
+Table 4  
+Median Analysis of Body Image 
+          Dimension              Minimum          Maximum         Median 
+ Appearance Evaluation              1                 5             3 
+ Appearance Orientation             1                 5             4 
+ Body Areas Satisfaction            1                 5             3 
+ Overweight Preoccupation           1                 5             3 
+ Self-Classified Weight             1                 5             3 
+ 
+      Table  4 shows the median value  of the  appearance  orientation  dimension  was 
+higher than the other four dimensions of body image. Those were in the moderate category. 
+ 
+Table 5  
+Median Analysis of Celebrity Worship 
+            Aspect                Minimum          Maximum       Median 
+ Entertainment-Social                1                5             4 
+ Intense-Personal                    1                5             3 
+ Borderline-Pathological             1                5             2 
+ 
+      Table 5 shows the median value of the entertainment-social aspect was the highest. 
+In  contrast, the median  value  of  the  borderline-pathological  aspect  was the  lowest 
+compared to the other two aspects of celebrity worship. 
+
+Discussion 
+The present study aimed to test the correlation between the level of celebrity worship and 
+dimensions of body image among female adolescent fans of K-pop girl groups. Of the most 
+interesting findings was the significant positive correlation between the entertainment-social 
+aspect of celebrity worship and the appearance orientation dimension of body image. Thus, 
+adolescent  girls  who  adored  K-pop girl groups  for  their  ability  to  entertain  and  attract 
+attention  would  place  more  importance  and  attention  on  their  appearance  and  strive  to 
+improve the way they dress and groom. 
+                                                                          
+
+                      Tresna et al. (Celebrity worship and body image among young girls fans of K-pop girl groups) 
+
+                                                                          
+Humanitas Indonesian Psychological Journal                             107 
+ 
+
+      One  of  the  adolescent  characteristics  in  seeking  identity  is  idolatry. Greene  and 
+Adams-Price (1990) suggested that adolescents chose a celebrity such as a pop singer to be 
+their idol or role model. The appearance was one of the reasons adolescents admired their 
+idols  which  caused  modeling  in  everyday  behaviors,  including  clothing  styles (Faujiah, 
+2018). A study on South Korean female college students found that women made social 
+comparisons  by  analyzing  the  appearances  in  the  media  and  making  judgments  about 
+themselves (Choi, 2018). 
+      The  finding  of  this  current  study  is  quite  in  line  with  the  result  of Noky  (2015) 
+among  a  K-pop Community,  UCEE,  in  Solo,  which  showed  a  significant  correlation 
+between the entertainment-social aspect  of celebrity worship  and body image. The main 
+difference was that Noky (2015) examined body image as an overall concept consisting of 
+appearance  evaluation,  body  areas  satisfaction,  anxiety  about  being  fat,  and  body 
+categorization, while in this study, body image was examined separately based on its five 
+dimensions.  Therefore, Noky  (2015) found  a  negative  correlation  between  the 
+entertainment-social  aspect  and  body  image.  Whereas in  this  current  study, when  the 
+entertainment-social aspect was only correlated with the appearance orientation dimension 
+of body image, it turned out to show a positive correlation. 
+      This study also found that the borderline-pathological aspect of celebrity worship 
+had a significant negative correlation with the body-areas satisfaction dimension of body 
+image.  The  borderline-pathological  aspect  is  such  an  extreme  level  of  celebrity  worship 
+that it can encourage fans to do anything uncontrollably, including trying to have physical 
+characteristics  that  resemble  their  favorite  celebrity (Maltby  et  al.,  2005; McCutcheon, 
+Lange, & Houran, 2002). As a result, this type of worship could reduce the satisfaction and 
+acceptance of K-pop girl groups fans  toward the size or appearance of their body parts. 
+This  finding was  in  line with  a previous study (Kusuma & Yuliawati, 2013) which also 
+showed  a  negative  correlation  between  the  borderline-pathological  aspect  of  celebrity 
+worship and self-esteem because fans would do anything for their idols and imitate their 
+idol behavior excessively.  
+      The intense personal aspect of celebrity worship did not significantly correlate with 
+all dimensions of the body image of K-pop girl groups fans. These findings were in line 
+with Maltby et al. (2005), who found that the intense personal aspect of celebrity worship 
+would  disappear  when  the  fans  became  more  mature. Maltby  et  al.  (2005) showed  that 
+adolescent girls aged 14-16 years who had intense personal celebrity worship were more 
+likely to have negative body image, but the correlation between celebrity worship and body 
+image would fade in adolescents aged 17-20 years. However, a later study by Maltby and 
+Day (2011) on  young adults aged 18-23 found a different result. The study showed that 
+participants' intense personal worship toward celebrities whose bodies were admired would 
+predict  elective  cosmetic  surgery  over eight months,  which  is  one  of  the  body  image 
+problems. 
+      The difference in the results of the two previous studies shows that the correlation 
+between the intense personal aspect of celebrity worship and body image is determined not 
+solely  by  the  fans'  age  but  also by  other  characteristics  of  the  fans.  There  were  several 
+characteristics  of  K-pop girl groups fans  in  this  study  (see Table  1)  that  supported  the 
+insignificant correlation  between  the  intense personal  aspect  and  all  body  image 
+dimensions. Firstly, most of the participants in this study reported that although they often 
+wished  to  have  bodies  like  idolized  K-pop girl groups,  the  frequency  they  compared 
+themselves  to  K-pop girl groups  was  only  sometimes,  rarely,  and  even  never.   This 
+characteristic indicated that the participants did not have a high intense personal aspect of 
+celebrity worship. They did not report such intense and compulsive feelings towards their 
+
+
+Tresna et al. (Celebrity worship and body image among young girls fans of K-pop girl groups) 
+108                                                                       
+                                                      ISSN 2598-6368 (online) / ISSN 1693-7236 (print) 
+                                                                         
+
+favorite  K-pop girl groups, which did  not  correlate  with  their  body  image.  People who 
+score highly on the intense personal aspect may be prone to causing worry or distortion in 
+their body shape (Maltby et al., 2005). Secondly, most of the participants adored K-pop 
+girl groups  not  only  because  of  their  attractive  appearance  and  face  (71.7%)  but  more 
+because  of  their excellent vocals  (79.7%).  This  characteristic  also  indicated  that 
+participants were not obsessed with the appearance of their favorite celebrity, which is a 
+characteristic of the intense personal aspect, so this aspect was not correlated with the body 
+image of the participants in this study. 
+      All  aspects  of  celebrity  worship  did  not significantly  correlate  with appearance 
+evaluation,  overweight  preoccupation,  and  self-classified  weight  dimensions  of  body 
+image. These three dimensions focus more on the personal feelings and evaluation towards 
+physical  appearance,  weight,  and  obesity (Cash,  2000).  The entertainment-social  aspect 
+dominated  the  participants'  celebrity  worship  in  the  current  study (see Table  5). 
+Participants focused  more  on  the  ability  of  K-pop girl groups  to  entertain  and  attract 
+attention than merely physical appearance. Therefore, all aspects of celebrity worship did 
+not  demonstrate a significant  correlation  with  the  dimensions  of  appearance  evaluation, 
+overweight  preoccupation,  and  self-classified  weight.  Moreover,  some  characteristics  of 
+participants in the current study (see Table 1) might also contribute to those insignificant 
+correlations. These characteristics of participants include the length of worshipping K-pop 
+girl groups, realistic  weight  perception, and  tendency  to  choose  healthy  weight  control 
+behaviors when experiencing dissatisfaction.  
+      Most  participants  had  worshipped  K-pop girl groups  for  more  than  2  years  (see 
+Table 1). This quite long parasocial relationship might cause fans to have such a complete 
+knowledge  of  their  favorite  celebrities.  This  knowledge  includes  their  songs,  relations, 
+abilities,  and  even  personal  characters.  Their  admiration  was  not limited  to  their  idols' 
+physical appearance and was not significantly correlated with their feelings or evaluation 
+towards  physical  appearance,  weight,  and  obesity. One  of  the  reasons  most participants 
+(71.7%) worshiped K-pop girl groups was that they have attractive appearances and faces. 
+In addition, most participants also reported that they often and sometimes wanted a body 
+shape like their favorite idol. Nevertheless, cross-tabulation between participants' BMI and 
+the self-classified weight dimension (see Table 3) showed that most participants still had a 
+fairly realistic perception of their weight. This participant's characteristic might support the 
+insignificant  correlations  between  all  aspects  of  celebrity  worship  and  the  self-classified 
+weight dimension. Another characteristic of most participants was the tendency to choose 
+healthy weight control behaviors, such as exercising and reducing food portions, when they 
+were  dissatisfied  with  their  bodies. This  characteristic  might  also  support  the  non-
+significant  correlations  between  aspects  of  celebrity  worship  and  the  overweight 
+preoccupation  dimension  of  body  image because  the  dimension contained  the  use  of 
+unhealthy weight control behaviors, such as fasting or going on crash diets. 
+      The  median  analysis  on  the  celebrity  worship  aspects  (see Table 5)  showed  that 
+entertainment social was the most dominant aspect of K-pop girl groups fans in this study. 
+Most of the participants reported that they always looked for information about K-pop girl 
+groups they admired through social media such as YouTube, Twitter, and Instagram (see 
+Table  1). Besides,  most  participants  also supported K-pop girl groups  by  always  or 
+frequently listening to songs and streaming music videos, or providing direct support via 
+the  V-Live  application. All  activities  related  to  K-pop girl groups  would  cause  the 
+participants to pay more attention to their idols' appearance and increase their orientation 
+
+                                                                          
+
+                      Tresna et al. (Celebrity worship and body image among young girls fans of K-pop girl groups) 
+
+                                                                          
+Humanitas Indonesian Psychological Journal                             109 
+ 
+
+towards appearance. Adolescent fans of K-pop girl groups will pay attention and make the 
+idols'  appearance  as  their  standard. Dewi,  Agustina,  and Faza  (2013) explained  that  the 
+Korean  clothing  style  was  considered  attractive,  unique,  casual,  and  not  too  flashy,  so 
+adolescents imitated their idols' dressing style. 
+      The median analysis also showed that the borderline pathological aspect was at the 
+lowest level compared to the other two aspects of celebrity worship (see Table 5). One of 
+the characteristics of borderline pathological celebrity worship is the willingness to spend a 
+lot of money on the goods related to their favorite celebrity (Maltby et al., 2005). Most of 
+the study  participants reported  that  they never  and  rarely  bought  albums  and  goods  or 
+merchandise of K-pop girl groups.  
+      The limitation of this study was related to the characteristic of the google form as a 
+data collection medium, namely the researcher could not directly observe the participants' 
+accuracy in filling out the questionnaire. Consequently, the researcher had to abort some 
+participants because they wrote the K-pop boy group's name. Another limitation lay in the 
+validity of the self-classified weight dimension of body image, which only consisted of two 
+items. Therefore, the discrimination index could not be calculated. Suggestions for further 
+research is that research on the same topic can be carried out on male and female fans of 
+K-pop girl and boy groups as a comparison. In addition, research on celebrity worship and 
+body image can also be carried out using qualitative methods to collect more in-depth data, 
+such  as  what  factors  influence  celebrity  worship  at  the  intense  personal  and  borderline 
+pathological  levels.  Fans  of  K-pop girl groups  are  suggested  to  idolize  their  favorite 
+celebrities  objectively  and  not  excessively so as not  to fall to the compulsive  and 
+pathological levels of celebrity worship. 
+
+Conclusion 
+Each  level  of  celebrity  worship  has  a  different  relationship  with  each  body image 
+dimension.  Entertainment social  is  the  most  common  celebrity  worship  among  female 
+adolescents  fans  of  K-pop girl groups  and  affects  young girl'  body  image  by  increasing 
+their attention to appearance. Borderline pathological is the most extreme and dangerous 
+celebrity worship because it negatively  affects adolescent  girls' body  image by  reducing 
+their satisfaction with some body parts. The theoretical implication of this research is that 
+celebrity worship can indeed affect the body image of K-pop girl group fans, especially on 
+the  dimensions  of  appearance  orientation  and  body  areas satisfaction. The  practical 
+implication is that celebrity worship does not negatively affect the body image of young 
+girls fans of K-pop girl groups as long as the adoration is expressed reasonably and not 
+excessively (intense, too personal, and pathological). 
+
+                                References 
+ 
+Bucchianeri, M. M., Arikan, A. J., Hannan, P. J., Eisenberg, M. E., & Neumark-Sztainer, 
+    D. (2013). Body dissatisfaction from adolescence to young adulthood: Findings from 
+    a    10-year   longitudinal  study.   Body     Image,   10(1),   1–7. 
+    https://doi.org/10.1016/j.bodyim.2012.09.001 
+Burns,  R.  B.  (1993). Konsep  diri:  Teori  pengukuran,  perkembangan,  perilaku  (Self-
+    concept: Theory, measurement, development, behavior). Arcan. 
+Cash, T. F. (2000). MBSRQ users’ manual (3rd ed.). Old Dominion University Press. 
+Choi,  E.  (2018).  Korean  fashion  media,  beauty  ideals,  and  colorism:  Examining  the 
+    prominence  of  whiteness  between  2013  and  2017  in  Ceci  Magazine. Unpublished 
+
+
+Tresna et al. (Celebrity worship and body image among young girls fans of K-pop girl groups) 
+110                                                                       
+                                                      ISSN 2598-6368 (online) / ISSN 1693-7236 (print) 
+                                                                         
+
+    Master Thesis. IOWA State University. 
+Denich, A. U., & Ifdil, I. (2015). Konsep body image remaja putri (Body image concept 
+    among  teenage  girls). Jurnal  Konseling  Dan  Pendidikan, 3(2),  55–61. 
+    https://doi.org/10.29210/116500 
+Dewi, F. S., Agustina, H., & Faza, R. (2013). ). Fenomena budaya Korea modern dalam 
+    cara  berpakaian  di  kalangan  remaja  SMA  Negeri  3  Cirebon  kelas  X6 (The 
+    phenomenon of modern Korean culture in dressing among teenager at SMA Negeri 3 
+    Cirebon in X6 class). Jurnal Signal, 1(1), 1–11. 
+Faujiah,  A.  (2018).  Hubungan  celebrity  worship  dengan  perilaku  modeling:  Penelitian 
+    pada  komunitas  Force  Cikarang  (The  relationship  between  celebrity  worship  with 
+    modelling  behavior:  Study  on  Force  Cikarang  Community). Unpublished  Doctoral 
+    Dissertation. UIN Sunan Gunung Djati, Bandung. 
+Giles, D. C., & Maltby, J. (2004). The role of media in adolescent development: Relations 
+    between autonomy attachment, and interest in celebrities. Personality and Individual 
+    Differences, 36(4), 813–822. https://doi.org/10.1016/S0191-8869)03)00154-5 
+Greene, A. L., & Adams-Price, C. (1990). Adolescents’ secondary attachments to celebrity 
+    figures. Sex Roles, 23, 335–347. https://doi.org/10.1007/BF00289224 
+Heinberg, J. L., & Thompson, J. K. (1992). Social comparison: Gender, target importance 
+    ratings  and  relation  to  body  image  disturbance. Journal  of  Social  Behavior and 
+    Personality, 7(2), 335–344. 
+Hennida,  L.  J.  (2013).  Corporate  strategies  in  the  spread  of  Hallyu  (Korean  wave  in 
+    Indonesia). Mozaik, 13(2), 117–125. 
+Jung, J., & Hwang, C. S. (2016). Associations between attitudes toward cosmetic surgery, 
+    celebrity  worship,  and  body  image  among  South  Korean  and  US  female  college 
+    students. Fash Text, 3(17). https://doi.org/10.1186/s40691-016-0069-6 
+Kusuma,  L.,  &  Yuliawati,  L.  (2013).  Self-esteem  and  celebrity  worship  on  late 
+    adolescents. Anima Indonesian Psychological Journal, 28(4), 202–209. 
+Maltby,  J.,  &  Day,  L.  (2011).  Celebrity  worship  and  incidence  of elective  cosmetic 
+    surgery: Evidence of a link among young adults. Journal of Adolescent Health, 49(5), 
+    483–489. https://doi.org/10.1016/j.jadohealth.2010.12.014 
+Maltby,  J.,  Giles,  D.  C.,  Barber,  L.,  &  McCutcheon,  L.  E.  (2005).  Intense-personal 
+    celebrity  worship  and  body  image:  Evidence  of  a  link  among  female  adolescents. 
+    British   Journal     of    Health     Psychology,    10(1),   17–32. 
+    https://doi.org/10.1348/135910704X15257 
+McCutcheon, L. E., Lange, R., & Houran, J. (2002). Conceptualization and measurement 
+    of  celebrity  worship. British  Journal  of  Psychology, 93(1),  67–87. 
+    https://doi.org/10.1348/000712602162454 
+McCutcheon, L. E., Scott, V. B., Aruguete, M. S., & Parker, J. (2006). Exploring the link 
+    between  attachment  and  the  inclination  to  obsess  about  or  stalk celebrities. North 
+    American Journal of Psychology, 8(2), 289–300. 
+Noky, H. M. (2015). Hubungan celebrity worship pada idola K-pop (Korean pop) dengan 
+    body  image  di  komunitas  K-pop  ucee  (The  relationship  between  celebrity  worship 
+    with  body  image  among  K-pop  (Korean  pop)  idols  in  ucee  K-pop  community). 
+    Unpublished Undergraduate Thesis. Universitas Kristen Satya Wacana Salatiga. 
+Nurani, N. (2017). Fanatisme fans K-Pop: Candu dan bumbu remaja (Fanaticism of K-Pop 
+    fans: Opium    and   spices  for  youth). Kumparan.   Retrieved  from 
+    https://kumparan.com/kumparank-pop/fanatisme-fans-k-pop-candu-dan-bumbu-
+
+                                                                          
+
+                      Tresna et al. (Celebrity worship and body image among young girls fans of K-pop girl groups) 
+
+                                                                          
+Humanitas Indonesian Psychological Journal                             111 
+ 
+
+    remaja/full 
+Santrock, J. W. (2007). Perkembangan anak (Child development). Erlangga. 
+Wilson, F. R., Pan, W., & Schumsky, D. A. (2012). Recalculation of the critical values for 
+    Lawshe’s  content  validity  ratio. Measurement  and  Evaluation  in  Counseling  and 
+    Development, 45(3), 197–210. https://doi.org/10.1177/0748175612440286 
+ 
+
+
+Tresna et al. (Celebrity worship and body image among young girls fans of K-pop girl groups) 
+8/28/2021                                                                   HUMANITAS: Indonesian Psychological Journal
+
+
+     HOME      ABOUT      LOGIN     REGISTER       SEARCH      CURRENT       ARCHIVES      ANNOUNCEMENTS          CONTACT
+
+     Home >
+Volume 18 (2) August 2021
+                                                                                                                                                      Author Guidelines
+
+     HH UU MM  AA NN II TT AA SS ::   II nn dd oo nn ee ss ii aa nn   PP ss yy cc hh oo ll oo gg ii cc aa ll   JJ oo uu rr nn aa ll                   Editorial Boards
+
+                                                                                        
+                                                             Reviewers
+      Journal title   Humanitas Indonesian Psychological Journal                        
+
+                                                                        
+
+      Initials        HUMANITAS                                                                                                                       Peer Review Process
+      Abbreviation    HUMANITAS
+                                                                                                                                                      Online Submissions
+      Frequency       2 issues per year | February-August
+                                                              
+
+      DOI             Prefx 10.26555                                                                                                                  Abstracting and Indexing
+      ISSN            P-ISSN: 1693-7236| E-ISSN: 2598-6368
+      Editor-in-chief Herlina Siwi Widiana                                                                                                            Publication Ethics
+      Publisher       Universitas Ahmad Dahlan
+                                                                                                                                                      Contact Us
+      Citation        Google Scholar | SCOPUS
+      Analysis
+                                                                                                                                                                    USER
+
+     HUMANITAS:      Indonesian   Psychological   Journal  is a  peer-reviewed,   open-
+                                                                                                                                                      Username
+     access   journal   that  publishes    empirical   quantitative  research    and/or
+     qualitative research   on psychology   and  other  relevant felds.  This journal is                                                              Password
+     indexed   on  DOAJ,  Dimensions,   Microsoft  Academic   Search,  Google   Scholar,
+     Sinta and Portal Garuda.                                                                                                                             Remember me
+                                                                                                                                                       Logiin
+     Since  2016,  HUMANITAS     is accredited   "B" by  DIKTI  based  on  SK  Direktur
+     Jenderal  Penguatan   Riset dan  Pengembangan      Kementerian   Riset, Teknologi,
+                                                                                                                                                                 TEMPLATE
+     dan Pendidikan Tinggi Number 36a/E/KPT/2016, date 23 Mei 2016. Since 2018,
+     HUMANITAS is accredited "Sinta 2".
+
+     HUMANITAS     publishes  twice  a year, on February   and  August  by Department
+     Psychology Universitas Ahmad Dahlan. HUMANITAS is available in printed-out
+     (ISSN 1693-7236) and electronic version (ISSN 2598-6368).
+
+                                                                                                                                                            CITATION ANALYSIS
+
+
+                                                                                                                                                                 INDEXING
+
+
+     Registration and login are required to submit items online and to check the status of current submissions.
+     
+                                                                                                                        
+
+     Already have a Username/Password for HUMANITAS?
+
+     GO TO LOGIN
+
+     Need a Username/Password?
+     
+                               
+
+     GO TO REGISTRATION
+
+      
+
+     
+
+     
+
+     If you get some problems in online submission, please sent email to HUMANITAS at humanitas@psy.uad.ac.id (Subject:
+     Name_Problem).
+
+
+journal.uad.ac.id/index.php/HUMANITAS/index                                                                                                                                            1/2
+8/28/2021                                                                                       Editorial Team
+
+
+     HOME      ABOUT      LOGIN     REGISTER       SEARCH      CURRENT       ARCHIVES      ANNOUNCEMENTS          CONTACT
+
+     Home >
+About the Journal >
+Editorial Team
+                                                                                                                                                      Author Guidelines
+
+     EE dd ii tt oo rr ii aa ll   TT ee aa mm                                                                                                         Editorial Boards
+
+                                                                                                                                                      Reviewers
+     E d i t o r  i n  C h i e f
+                                                                                                                                                      Peer Review Process
+     Dr Herlina Siwi Widiana, Universitas Ahmad Dahlan, Yogyakarta, Indonesia
+                                                                                                                                                      Online Submissions
+     M  a n a g i n g  E d i t o r
+                                                                                                                                                      Abstracting and Indexing
+     Luqman Tifa Perwira, M. Psi., Psikolog, Universitas Ahmad Dahlan, Yogyakarta, Indonesia
+                                                                                                                                                      Publication Ethics
+     A s s o c i a t e  E d i t o r s
+                                                                                                                                                      Contact Us
+     Dr Sherly Saragih Turnip, Universitas Indonesia, Jakarta, Indonesia
+     Dr Naiema Taliep, University of South Africa, Pretoria, South Africa
+     Dr Leigh Coombes, Massey University, Palmerston North, New Zealand                                                                                             USER
+
+     E d i t o r i a l  B o a r d  M e m b e r s                                                                                                      Username
+
+     Prof. Dr. Asoke Kumar Saha, Jagannath University, Dhaka, Bangladesh                                                                              Password
+     Dr. Nurul Ain Hidayah Abas, Universiti Pendidikan Sultan Idris Malaysia                                                                              Remember me
+     Dr. Yessy Elita, S.Psi, M.Si, Univeritas Bengkulu, Bengkulu, Indonesia
+     Dr. Edilburga Wulan Saptandari, M.Psi, Psikolog, Universitas Gadjah Mada, Yogyakarta, Indonesia                                                   Logiin
+     Arini Widyowati, M.Psi, Psikolog, Universitas Ahmad Dahlan, Yogyakarta, Indonesia
+     Nissa Tarnoto, M.Psi., Psikolog, Universitas Ahmad Dahlan, Yogyakarta, Indonesia                                                                            TEMPLATE
+     Difa Ardiyanti, S.Psi., M.Psi., Psikolog, Universitas Ahmad Dahlan, Yogyakarta, Indonesia
+     Dian Ekawati, M.Psi, Psikolog, Universitas Ahmad Dahlan, Yogyakarta, Indonesia
+     Uf Fatuhrahmah, M.Psi, Psikolog, Universitas Ahmad Dahlan, Yogyakarta, Indonesia
+
+     
+
+     
+
+                                                                                                                                                            CITATION ANALYSIS
+     HUMANITAS: Indonesian Psychological Journal
+     ISSN 1693-7236 (print), 2598-6368 (online)                                 
+
+     Email : humanitas@psy.uad.ac.id              
+
+
+
+     This work is lice
+nsed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+                                                                                                                                                                 INDEXING
+      View My Stats
+
+
+journal.uad.ac.id/index.php/HUMANITAS/about/editorialTeam                                                                                                                              1/2
+8/29/2021                                                                   HUMANITAS: Indonesian Psychological Journal
+                                                            A n n o u n c e m e n t s
+
+
+       
+                                                                                                                                              
+
+       L a n g u a g e                                                                                                                                        NOTIFICATIONS
+       Humanitas will be published in English by 2019. Therefore only article written in English will be processed                            
+       (start on September 1, 2018).                                                                                                                  » View
+                                                                                                                                                      » Subscribe
+       Posted: 2018-08-18
+
+       
+                                                                                                                                                            JOURNAL CONTENT
+                                                                                                                      More Announcements...
+                                                                                                                                                      Search 
+                                                                                                                                                             
+
+     
+
+                                                                                                                                                      Search Scope
+
+     V o l u m  e  1 8  ( 2 )  A u g u s t  2 0 2 1                                                                                                    All
+                                                                                                                                                       Searrch
+     T a b l e  o f  C o n t e n t s                                                                                                                 
+
+                                                                                                                                                     Browse
+     A r t i c l e s                                                                                                                                  » By Issue
+                                                                                                                                                      » By Author
+      Indonesian adaptation of the Revised College Student Subjective Wellbeing
+                                                                                                                                          PDF         » By Title
+      Questionnaire                                                                                                                                   » Other Journals
+           Sari Zakiah Akmal, Dewi Kumalasari, Novika Grasiaswaty                                                                      75-86
+
+      Work-home interaction and psychological distress during the COVID-19                                                                                      KEYWORDS
+                                                                                                                                          PDF
+      pandemic: The mediation efect of cyberloafng
+                                                                                                                                                     COVID-19
+adolescent
+
+           Sari Novianti, Bertina Sjabadhyni                                                                                           87-99         aggression
+career decision self-
+                                                                                                                                                     efcacy
+college student
+      Celebrity worship and body image among young girls fans of K-pop girl groups                                                        PDF        depression
+general election
+hashtag
+                                                                                                                                                     intellectual values
+job satisfaction
+           Kadek Ayu Anatasya Divina Tresna, Monique Elizabeth Sukamto, Marselius Sampe Tondok                                       100-111         junior high school students
+male college
+                                                                                                                                                     students
+marital satisfaction
+middle
+      Predictors of early sexual intercourse on middle adolescents in Medan                                                               PDF        school students
+parenting style
+                                                                                                                                                     planned happenstance
+political rhetoric
+
+           Rahmi Lubis, Zahrotur Rusyda Hinduan, Ratna Jatnika, Hendriati Agustiani                                                  112-127         proactive personality
+psychological
+
+                                                                                                                                                     well-being
+social media
+twitter
+      Factors of premarital sexual activities of literate emerging adults in Nigeria                                                      PDF
+                                                                                                                                                                 FONT SIZE
+           Mulikat Ladi Abdulqadir Mustapha, Rahmat Nurudeen Shuaib                                                                  128-138
+
+      Mindfulness and academic resilience among unprivileged college students: The
+                                                                                                                                          PDF
+      mediating role of self-compassion
+                                                                                                                                                     
+
+           Hanan Salsabila, Pratiwi Widyasari                                                                                        139-152
+                                                                                                                                                              INFORMATION
+      Denial attitude and behavior as a response to the COVID-19 pandemic: A
+      qualitative study                                                                                                                               » For Readers
+                                                                                                                                                      » For Authors
+           Sabiqotul Husna                                                                                                                            » For Librarians
+     
+
+     
+
+
+                                                                                                                                                              CURRENT ISSUE
+     HUMANITAS: Indonesian Psychological Journal
+     ISSN 1693-7236 (print), 2598-6368 (online)                                                                                                                     
+
+     Email : humanitas@psy.uad.ac.id                                                                                                                                
+
+
+
+     This work is lice
+nsed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+      View My Stats
+
+
+journal.uad.ac.id/index.php/HUMANITAS/index         

@@ -1,0 +1,656 @@
+Social and Personality Psychology
+Psychological Reports
+Positive Psychosocial
+2021, Vol. 124(5) 2272–2285
+! The Author(s) 2020
+Outcomes and Fanship
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/0033294120961524
+in K-Pop Fans: A Social
+journals.sagepub.com/home/prx
+Identity Theory
+Perspective
+Derek A. Laffan
+Department of Technology and Psychology, Dun
+Laoghaire Institute of Art, Design and Technology, Dun
+Laoghaire, Ireland
+Abstract
+Korean pop culture (K-Pop) has spread its influence outside of Korea to a worldwide
+fan audience. The present study investigated the self-categorised K-Pop fandom
+characteristics that predicted higher levels of K-Pop fanship, and subsequent psy-
+chosocial outcomes. Social identity theory was applied as a theoretical framework. In
+total, 1477 K-Pop fans from 92 predominantly Western countries fully completed an
+extensive online survey measuring fanship, fandom and psychosocial outcomes (hap-
+piness, self-esteem and social connectedness). Results of this study indicated that
+K-Pop fanship was significantly predicted by a several K-Pop demographic and
+fandom characteristics. K-Pop fanship was a significant predictor of increased hap-
+piness, self-esteem and social connectedness. The study findings advance the appli-
+cation of social identity theory in a K-Pop fan context and the psychological fanship
+research more broadly.
+
+Keywords
+Social identity theory, fanship, fandom, K-Pop, self-categorisation
+Corresponding Author:
+Derek A. Laffan, Dun Laoghaire Institute of Art Design and Technology, Kill Avenue, Dun Laoghaire, County Dublin, Ireland.
+
+Email: derekajlaffan@gmail.com
+Laffan
+2273
+Hallyu 2.0
+The K-Pop wave, also referred to as the “Hallyu (한)”, is a music cultural
+phenomenon involving the intentional spread of K-Pop (Korean popular
+music) outside of Korea to the worldwide audience (Williams & Ho, 2014).
+
+Since 2000, K-Pop artists such as BoA, Big Bang, SNSD (Girls Generation)
+and SHINee were at the industry forefront of the Hallyu wave and had an
+evident fandom in many countries outside of Asia (Jin & Yoon, 2016). In the
+last months of 2012, one of the most notable K-Pop icons PSY released the song
+and accompanying music video: ‘Gangnam Style’, which to the present day has
+amounted to over 3 billion views on YouTube (Kim et al., 2014). According to
+Billboard (2017), Gangnam Style remained in the American music charts for 122
+weeks. In recent years, boy band BTS (also known as Bangtan Boys) dominated
+the international music scene when their second album Wings became the high-
+est US chart-topping and bestselling K-Pop album of all time (Billboard, 2017).
+
+Artists like PSY, BTS and Red Velvet are internationally recognized K-Pop
+idols who have demonstrated the extent of the popularity of K-Pop culture in
+Western countries in recent years involving the use of various digital media
+technologies. More recently, the involvement of emerging digital technologies
+to the Hallyu wave has led to the coining of the new phrase: Hallyu 2.0 (Jin &
+Yoon, 2016; Lee & Nornes, 2015). Hallyu 2.0 has been characterized by the
+growing impact of K-Pop fandom in Western countries, ubiquitous multimedia
+content (Kim, 2013), and the significant role of social media in K-Pop content
+consumption (Jin & Yoon, 2016; Jung & Shim, 2013; Oh & Park, 2012).
+
+With the growing number of K-Pop bands produced and promoted using
+Internet technologies, it is difficult to accurately determine how many global
+K-Pop fans exist in the world. Forbes (2019) estimated that BTS alone has in
+excess of ninety million worldwide fans. The scope of K-Pop fanship is therefore
+significant and worthy of scholarly inspection. In the subsequent sections, fan-
+ship and fandom as psychological phenomena, are evaluated in the context of
+the social identity of K-Pop fans.
+
+The social identity of K-Pop fans
+A psychological conception of a K-Pop fan can refer to an individual who is
+loyal, enthusiastic, and an ardent admirer of K-Pop culture (Schroy, Plante,
+Reysen, Roberts & Gerbasi, 2016). The social identity of a K-Pop fan is gener-
+ally made up of their fanship and fandom (Reysen & Branscombe, 2010).
+
+Fanship can be defined as an individual’s psychological attachment to their
+fan interest (Schroy et al., 2016), whereas fandom can be defined as an individ-
+ual’s psychological attachments to other fans who also share the same fan inter-
+est (Reysen & Branscombe, 2010). Extensive psychological research into fanship
+has been examined particularly in a Sport setting (Branscombe & Wann, 1991;
+2274
+Psychological Reports 124(5)
+Gantz & Wenner, 1995; Hirt & Clarkson, 2010; Hurley, 2018; Reysen &
+Branscombe, 2010) and in various digital media domains such as: celebrity
+worship (McCutcheon et al., 2016), sports themed video games (Shafer &
+Carbonara, 2015) and Anime (Ray, Plante, Reysen, Roberts & Gerbasi ,
+2017). Fanship has been suggested as a fluctuating phenomenon (Schroy et al.,
+2016) in the sense that an individual’s fanship intensity can change over periods
+of time. Several psychosocial factors have been suggested as influences of fan-
+ship fluctuations: an individual’s social identity (Reysen, Plante, Roberts,
+Gerbasi 2015), gender differences (Pentecost & Andrews, 2010; Wann, 1995),
+social connection (Chadborn et al., 2017), escapism (Wann, 1995) and sexual
+attraction (Schroy et al., 2016).
+
+Fandom can be a dynamic experience depending on the fan interest.
+
+Typically, fandom has been associated with group identification (Ray et al.,
+2017) and the ubiquity of the fan interest in society (Reysen, Katzarsca-
+Miller, Nesbit & Pierce , 2013). Anime and Manga fans for example have
+been known to attend and invest in their fan interest at conventions. In a K-
+Pop context, Kim and Kim (2017) showed that K-Pop fans would regularly
+engage with other fans in online K-Pop fan websites and groups specific to K-
+Pop. Fanship and fandom may be distinctively different concepts as stated
+above, but both concepts comprise as the components of an overall fan identity
+(Reysen et al., 2013; Schroy et al., 2016), underpinned by self-categorisation and
+group membership benefits.
+
+It appears that K-Pop fans have a social identity comprising of K-Pop related
+fanship and fandom. However, the psychological fanship extent of the K-Pop
+fan identity remains largely unknown and is a fundamental component of the
+Reysen and Branscombe (2010) fan social identity conception. The K-Pop fan
+identity can be inspected in the context of an evidence-based psychological con-
+struct underlined by how self-concept is influenced by group memberships and
+affiliations. Social Identity Theory (SIT: Tajfel & Turner, 1979) posits that an
+individual’s identity is made up of a personal and a social self by self-
+categorization in groups. As a result of self-categorizing in a particular group
+or set of groups, individuals then experience positive attachments to the in-
+group of interest and contribute to intragroup morale (Kaye et al., 2019; Kim
+& Kim, 2017; Tajfel & Turner, 1979). Individuals also report a variety of pos-
+itive psychosocial outcomes such as perceiving fellow group members in a pos-
+itive manner and fluctuations of self-esteem and self-enhancement, as a result of
+self-categorisation (Tajfel & Turner, 1979).
+
+SIT arguably offers possible insights into the development of the K-Pop fan
+social identity. Taking a SIT perspective, K-Pop fans could consider their per-
+sonal self with their K-Pop fanship, and their social self with their K-Pop
+fandom. K-Pop fans have been known to self-categorize by creating, joining
+and maintaining various online K-Pop fan groups ( Kim & Kim, 2017).
+
+However, there has not been a substantial effort to investigate the psychosocial
+Laffan
+2275
+extent of the self-categorisation behaviours that K-Pop fans execute. Contrary
+to SIT assumptions, qualitative research into the K-Pop fan identity has sug-
+gested that a pathological fan type exists called Sasaengpaen (Williams & Ho,
+2014) who have been known to exhibit stalker-like behaviour (e.g. installing
+CCTV on K-Pop artists’ property and writing letters to K-Pop artists in
+blood) and an excessive fanship level. However this fan type is not representative
+of K-Pop fans generally (Williams, 2016).
+
+The present study
+The overall aim of this study is to investigate the extent of K-Pop fanship on
+attributed psychosocial outcomes using SIT as a theoretical framework. The
+psychosocial outcomes of happiness, self-esteem and social connectedness
+were assessed. The research question is stated as follows: To what extent does
+K-Pop fanship significantly predict psychosocial outcomes attributed to K-Pop
+fan group membership? Multiple regression statistical approaches have been
+successful in demonstrating SIT to varying degrees in previous research (e.g.
+
+Kalkhoff & Barnum, 2000). Thus, it can be hypothesized that K-Pop fanship
+will be predicted by various forms of self-categorization, and that K-Pop fanship
+will predict positive psychosocial outcomes. This study compliments the work of
+Kim and Kim (2017) by further expanding on the implications of SIT in relation
+to the extent of K-Pop fan self-categorisations and group membership
+affiliations.
+
+Method
+Design and participants
+The present study employed online questionnaires distributed in various online
+K-Pop fandom groups such as: the R/K-Pop Reddit fan page, Facebook K-Pop
+idol fan pages, fan community groups in the Amino Smartphone app, and via
+Twitter fan group pages. The web link to access the study questionnaire was also
+distributed to various Korean/Asian university societies in Ireland and the
+United Kingdom via Email.
+
+The participants were K-Pop fans (N ¼ 1477): Females (70.2%, n ¼ 1033),
+Males (26.7%, n ¼ 393), Non-binary (1.8%, n ¼ 26), Transgender (0.7%,
+n ¼ 11) and other genders/preferred not to say (0.6%, n ¼ 6). The average age
+of a K-Pop fan was 23 years (SD ¼ 5, Age Range ¼ 18 - 55 years). K-Pop fans
+accessed the survey in 92 different countries: United States of America (33.6%,
+n ¼ 497), United Kingdom (9.3%, n ¼ 137), Philippines (6%, n ¼ 89), Canada
+(4.9%, n ¼ 72), Ireland (3.2%, n ¼ 47), Germany (3.2%, n ¼ 47) and all other
+countries collectively (39.8%, n ¼ 588).
+
+2276
+Psychological Reports 124(5)
+K-Pop fans listed to K-Pop everyday (59.4%, n ¼ 877), several times per week
+(34.1%, n ¼ 503), once a week (3.5%, n ¼ 52), couple of times per month (2.6%,
+n ¼ 39) and rarely/never (0.3%, n ¼ 4). The most popular K-Pop idol(s)/groups
+were: BTS (44.8%, n ¼ 661), TWICE (9.7%, n ¼ 145), Big Bang (3.9%, n ¼ 58),
+Red Velvet (3.5%, n ¼ 52), EXO (2.9%, n ¼ 43) and other idol(s)/groups collec-
+tively (35.2%, n ¼ 518). However, many K-Pop fans reported to having multiple
+favourite or most listened to K-Pop idol(s)/groups. The length of time partic-
+ipants reported to have been K-Pop fans were: 1-3 years (37.1%, n ¼ 548), 4-7
+years (22.6%, n ¼ 334), 1 year (18.1%, n ¼ 268), less than 1 year (18.3%,
+n ¼ 271), 8-10 years (7.5%, n ¼ 111) and 11þ years (2.8%, n ¼ 41).
+
+Measures
+K-Pop fandom demographic questionnaire. Participants were asked about their
+demographic information regarding age, gender, nationality, favourite K-Pop
+idol/band, how long participants have been fans to their favourite K-Pop idol/
+band, and how often participants listened to K-Pop music. Participants were
+asked about the digital technologies (i.e. social media sites, music streaming sites
+etc.) they use to listen to their favourite K-Pop idol/band. Participants were
+asked about the fandom groups they are members of (i.e. Twitter pages,
+Facebook private groups etc.), and the sites and sources they get K-Pop news
+and information from (i.e. Korean media sites, K-Pop idol/band website etc.).
+
+Participants were also asked about the K-Pop related events that were available
+to them to attend (i.e. concerts, festivals etc.).
+
+Fanship. K-Pop fanship was measured using the Fanship Scale (Reysen &
+Branscombe, 2010). The Fanship Scale is a unidimensional 11-item self-report
+scale measuring psychological fanship and was designed to facilitate any kind of
+fan interest (Reysen & Branscombe, 2010). Sample items on the Fanship Scale
+include: “I would devote all my time to my interest [my favourite/most listened
+to K-Pop idol] if I could” and “I want to be friends with people who like my
+interest [my favorite/most listened to K-Pop idol]” and all items are self-assessed
+on a likert scale ranging from one to nine. The scoring procedure for the
+Fanship Scale involves tallying up the item scores (one item is scored in reverse)
+and interpreting the final score as a level of fanship. Higher scores are indicative
+of higher fanship levels. In the present study, the Fanship scale adapted for K-
+Pop fanship was highly reliable according to a McDonald’s Omega reliability
+computation (11-items, x ¼ 0.88).
+
+Happiness. Happiness can be conceptualized as a state involving frequent levels
+of positive emotions, less frequent levels of negative emotions and a degree of
+life satisfaction (Diener, 1984). Happiness was measured using the Oxford
+Happiness Questionnaire (OHQ; Hills & Argyle, 2002). The OHQ is a 29-item
+Laffan
+2277
+measure of general happiness self-reported on a likert scale. The scoring proce-
+dure involves tallying up the item scores and dividing the total by 29. 12 items
+are scored in reverse (e.g. “I don’t feel particularly pleased with the way I am”)
+and 17 items are scored normally (e.g. “I find most things amusing”). Higher
+total scores indicate higher levels of happiness. In this study, the OHQ was
+highly reliable according to a McDonald’s Omega reliability computation (29-
+items, x ¼ 0.81).
+
+Self-esteem. Self-esteem can be conceptualized as an individual’s evaluation of
+their own self-worth (Rosenberg, 1965). Global self-esteem was measured using
+the ten-item Rosenberg (1965) Self-Esteem Scale (SES). The SES scored high in
+internal consistency (a ¼ .84) in a recent media related study (Kaye et al., 2019).
+
+The scoring procedure of the SES is to sum up the item scores on a four-point
+likert scale with half of the items scored in reverse (e.g. “At times I think I am no
+good at all”). Higher total scores indicate higher levels of self-esteem. In the
+present study, the SES was satisfactorily reliable according to a McDonald’s
+Omega reliability computation (10-items, x ¼ 0.79).
+
+Social connectedness. Social connectedness refers to an individual’s subjective
+awareness of being in close relationship with the social world as a whole (Lee
+& Robbins, 1995). Social connectedness was self-assessed using the 20-item
+Social Connectedness Scale-Revised (SCS-R: Lee et al., 2001). The SCS-R is
+made up of ten positively phrased items (e.g. “I feel comfortable in the presence
+of strangers”) and ten negatively phrased items (e.g. “I see myself as a loner”)
+with corresponding standard and reverse scoring. The SCS-R is self-assessed on
+six-point likert scale and higher scores indicate higher levels of global social
+connectedness. Permission to use the SCS-R was granted by one of the scale
+developers. The SCS-R was reliable according to a McDonald’s Omega reliabil-
+ity computation (20-items, x ¼ 0.72).
+
+Procedure
+The present study underwent an ethics proposal and a series of pilot
+testing before the final online survey was made accessible and distributed.
+
+The survey link was strategically distributed into online fan community
+groups, social media fan group pages, and via email to fan groups
+whereby K-Pop fans could access the study in their own time. K-Pop
+fans were asked to think about their favorite or most listened to K-Pop idol
+(s)/group throughout and did not have to answer any question they did not wish
+to answer.
+
+2278
+Psychological Reports 124(5)
+Results
+K-Pop fandom results
+K-Pop fans (N ¼ 1477) used a variety of technologies to listen to K-Pop: online
+video sites (e.g. YouTube: 97.2%, n ¼ 1435), social networking sites (e.g.
+
+Facebook: 76.5%, n ¼ 1130) music streaming sites (e.g. Spotify: 76%,
+n ¼ 1122), CDs/DVDs (41.6%, n ¼ 615), music collection sites (e.g. iTunes:
+34.7%, n ¼ 512), K-Pop fan sites (e.g. AllKPop: 33.5%, n ¼ 495), K-Dramas
+(e.g. Oh My Grace: 22.5%, n ¼ 333) K-Pop digital games (e.g. BTS World:
+19.8%, n ¼ 293), artist website (e.g. bts.ibighit.com: 14.7%, n ¼ 217), and K-
+Pop movies (e.g. Tazza 2: 8.3%, n ¼ 122).
+
+K-Pop fans (N ¼ 1477) participated in several online fandom groups: Reddit
+(e.g. r/kpop: 83.2%, n ¼ 1229), Twitter fan pages (46.9%, n ¼ 693), Facebook
+(17.1%, n ¼ 252), artist fan sites (13.9%, n ¼ 206), WhatsApp groups (3.9%,
+n ¼ 57) and Email groups (0.3%, n ¼ 5).
+
+Most K-Pop fans did not attend any K-Pop related events (56.9%, n ¼ 840).
+
+However, some K-Pop fans did report to previously attending K-Pop related
+events: concerts (34.2%, n ¼ 505), conventions/conferences (8.5%, n ¼ 126), fes-
+tivals (6.8%, n ¼ 101), offline meetups (6.4%, n ¼ 95), club parties (4.5%,
+n ¼ 67), idol remembrances/memorials (3.8%, n ¼ 56), general themed events
+(3%, n ¼ 45), workshops (1.6%, n ¼ 23), theatre shows (1.5%, n ¼ 22), and
+cosplay events (1.6%, n ¼ 17).
+
+K-Pop fans (N ¼ 1477) reported to getting their news and information about
+K-Pop from several sources: idol/group social media sites (69.7%, n ¼ 1030),
+web articles (69.3%, n ¼ 935), web forums (54.8%, n ¼ 809), bloggers (22.5%,
+n ¼ 332), word-of-mouth (21.7%, n ¼ 321), vloggers (15.2%, n ¼ 225), Korean
+TV (14%, n ¼ 207), Internet chat rooms (13.6%, n ¼ 201), Amino Apps (6.8%,
+n ¼ 101) and Reddit (6.8%, n ¼ 101).
+
+Demographic and fandom predictors of K-Pop fanship
+Multiple linear regressions computed the predictor variables of K-Pop fanship
+and psychosocial outcomes in the present study. Predictor variables were com-
+binations of dichotomous categorical and continuous variable types. All predic-
+tor variables input into the linear regression model scored low on
+multicollinearity for fanship levels and psychosocial outcomes. Fanship data
+were found to be normally distributed with a skewness score of - 0.15
+(SE ¼ 0.06) and a kurtosis score of - 0.43 (SE ¼ 0.13). Descriptive statistics for
+fanship data are displayed in Table 1.
+
+Higher levels of K-Pop fanship were significantly predicted (R2 ¼ 0.306, F(7,
+1434) ¼ 90.529, p ¼ .000) when K-Pop fans: were female (b ¼ 3.98, p ¼ .000),
+listened to K-Pop every day (b ¼ 7.00, p ¼ .000), were younger in age
+
+
+Laffan
+2279
+Table 1. Mean (M), standard deviation (SD), minimum (min.) and maximum (max.) scores on
+psychosocial outcomes and fanship.
+
+Psychosocial outcome
+M
+SD
+Min.
+
+Max.
+
+Happiness (OHQ)
+3.16
+0.30
+2.03
+4.07
+Self-Esteem (SES)
+29.60
+2.70
+22
+40
+Social Connectedness (SCS-R)
+70.25
+6.14
+49
+96
+Fanship (Fanship Scale)
+56.73
+14.62
+18
+97
+Note. The OHQ stands for the Oxford Happiness Questionnaire (Hills & Argyle, 2002), the SES stands for the Self-Esteem Scale (Rosenberg, 1965), and the SCS-R stands for the Social Connectedness Scale-Revised (R. M. Lee et al., 2001).
+
+(b ¼ - 0.379, p ¼ .000), reported that BTS were their favorite or most listened to
+K-Pop group (b ¼ 2.07, p ¼ .005), and were members of up to three online
+K-Pop fandom groups (b ¼ 1.24, p ¼ .002). Notably, being a K-Pop fan for
+more than 4 years was not a significant predictor of K-Pop fanship (b ¼ 1.13,
+p ¼ .120).
+
+K-Pop fanship as a predictor of psychosocial outcomes
+K-Pop fanship was a significant predictor of all three psychosocial outcomes:
+happiness (R2 ¼ 0.72, F(4, 1401) ¼ 27.19, p ¼ .000), self-esteem (R2 ¼ 0.021, F(4,
+1349) ¼ 7.60, p ¼ .000), and social connectedness (R2 ¼ 0.12, F(4, 1406) ¼ 4.39,
+p ¼ .002). Table 1 displays the descriptive statistics on K-Pop fan psychosocial
+outcome results. Pearson correlation coefficients between fanship, happiness,
+self-esteem and social connectedness are displayed in Table 2.
+
+Discussion
+The aims of this study were to investigate the K-Pop fandom self-categorisations
+most associated with K-Pop fanship, and the extent of K-Pop fanship on attrib-
+uted psychosocial benefits. The discussion of results is outlined subsequently.
+
+Social identity theory in action
+The results showed that K-Pop fanship was associated with increased psychosocial
+benefits. In light of the study results, the findings can be deemed as contributory to
+Kim and Kim (2017) for the advancement of the implications of applying SIT
+(Tajfel & Turner, 1979) in a K-Pop context. Similarly to Kim and Kim (2017), K-
+Pop fan self-categorisation was observed in this study. Self-categorisation was
+evident when participants indicated their self-identification as a K-Pop fan via
+categorical ‘yes/no’ options, and when participants indicated the extent of their
+self-categorisation through their reported K-Pop demographic and fandom
+
+
+2280
+Psychological Reports 124(5)
+Table 2. Correlation matrix displaying Pearson correlation coefficients between fanship,
+happiness, self-esteem and social connectedness.
+
+Social
+Fanship
+Happiness
+Self-Esteem
+Connectedness
+Fanship
+1
+0.52a
+0.23a
+0.14a
+Happiness
+1
+0.24a
+0.35a
+Self-Esteem
+1
+0.33a
+Social Connectedness
+1
+Note. aSignificance at the 0.01 level (2-tailed).
+
+characteristics. It is worth noting that this study found that the K-Pop fan indi-
+viduals who belonged to up to three online K-Pop online groups were indicative of
+higher fanship levels, yet as a whole, K-Pop fans generally reported a vast array of
+K-Pop fan groups they belonged to. It could therefore be argued that the process
+of K-Pop fan categorisation is complex and warrants further research scrutiny.
+
+The results of this study showed that higher K-Pop fanship levels significantly
+predicted increased levels of psychosocial outcomes (happiness, self-esteem and
+social connectedness). Happiness in particular appeared to be most extensive pre-
+dictor of K-Pop fanship compared to self-esteem, which is usually attributed most
+to SIT (Tajfel & Turner, 1979). Two potential explanations for this are: (1) that the benefits of digital technology play a positive psychosocial role across varying media
+contexts (e.g. digital gaming) whereby SIT is inspected as a theoretical framework
+(Kaye et al., 2019), and (2) global happiness and self-esteem are constructs that
+may have overlapping conceptual components. In this study, happiness and self-
+esteem were unidimensional constructs self-assessed with comprehensive measures.
+
+Possible reasons for why K-Pop fan affiliation is associated with increases
+across general psychosocial outcomes are: K-Pop may provide individuals with
+a sense of belongingness in online K-Pop fan community groups ( Kim & Kim,
+2017), K-Pop may be considered as an alternative to mainstream Western pop
+culture (Jin & Yoon, 2016), and social media technologies (e.g. Reddit) may
+provide K-Pop fans with a perceived increased sense of accessibility and con-
+nectedness to their favourite K-Pop idols. However, exploratory qualitative
+research could confirm or contest these possibilities. Therefore, it can be
+argued that the study aim was generally achieved.
+
+Implications for fanship
+The results of this study may have novel implications for fanship research more
+broadly. Listening to K-Pop music every day was found to be a fandom pre-
+dictor of fanship, and as such, may provide new insight into the reasons why
+fanship levels have been known to fluctuate over time. This result may suggest
+Laffan
+2281
+that fanship is not solely determined by how long an individual has identified as a
+fan over long term timeframe (i.e. being a self-categorised fan for a number of
+years). Rather, this result may suggest that higher fanship levels can be deter-
+mined by how often a fan invests psychologically into their fanship (i.e. listening
+to K-Pop every day). This suggestion is further supported by a null result in the
+current study whereby the length of time in years K-Pop fans reported to have
+been fans was not a predictor of higher fanship levels.
+
+The possibility that shorter term time constructs (i.e. listening to K-Pop
+music every day, how many hours per day etc.) indicated higher fanship more
+than longer term time constructs (i.e. being a K-Pop fan for over 4 years) should
+therefore be further scrutinized in future fanship research. A longitudinal
+approach measuring K-Pop fanship and its associated factors (Chadborn
+et al., 2017; Pentecost & Andrews, 2010; Reysen et al., 2013; Schroy et al.,
+2016; Wann, 1995) in intervals may confirm this implication. This research
+therefore demonstrates a novel application of SIT (Tajfel & Turner, 1979),
+particularly in relation to the extent of self-categorisation within online
+groups. As such, the application of SIT in this study was beneficial for poten-
+tially new advances for the study of psychological fanship. Other psychological
+theoretical approaches may offer additional insight into the processes of K-Pop
+fan self-categorisation. In this study, K-Pop fan categorisations were shown to
+be predictors of K-Pop fanship to align with SIT assumptions (i.e. self-
+categorisation resulting in psychosocial outcomes), however, the reverse (i.e.
+
+K-Pop fanship as a predictor of K-Pop fan categorisations) may also be a pos-
+sibility and compatible with SIT.
+
+Strengths, limitations and future directions
+Despite notable strengths such as the use of evidence-based psychosocial meas-
+ures with strong internal validity and a large sample size inclusive of global K-
+Pop fans, there are notable limitations worthy of mention. The multiple regres-
+sion computations are correlational and do not imply causality rendering the
+statistical ability as indicative, rather than causal. Despite regressions being able
+to show associations between categorisations and psychosocial outcomes, it is
+also worth noting that there were other compatible statistical approaches that
+could have been applied e.g. structural equation modelling (SEM) and
+mediation-moderation analysis.
+
+The application of SIT as a psychological framework in this study also
+presents a potential theoretical caveat, as the psychological process of how a
+participant became a self-categorised K-Pop fan was not indicated in this study.
+
+Fanship researchers have repeatedly reported this caveat as identifying the dif-
+ficulties in understanding the dynamics of fanship over periods of time (Ray
+et al., 2017; Schroy et al., 2016). Additional K-Pop fan categorisation consid-
+erations worthy of inspection would be differences between K-Pop fan groups
+2282
+Psychological Reports 124(5)
+(i.e. BTS fans and EXO fans) and K-Pop fan identity types (i.e. hard-core,
+casual, and social fans).
+
+In the broader fanship research context, future research investigations
+into the motivations of fans and the subsequent implications of these fan moti-
+vations on fanship, would arguably be a fruitful research direction. Fan moti-
+vations may also provide additional insight into why fanship appears to
+fluctuate over time (Schroy et al., 2016), and could be conveniently included
+within a variety of research approaches (longitudinal, surveys and interviews
+etc.) for psychological inquiry.
+
+Conclusion
+Fundamental psychological theories (i.e. social identity theory) can offer valu-
+able insight into the psychological aspects of K-Pop fan behavior. This could
+imply that K-Pop may become a topical avenue of research for psychology
+researchers. Cyberpsychology, a field devoted to the intersection of psycholog-
+ical thought and the application of digital technologies, may provide additional
+perspectives into the role of the Hallyu 2.0 (Jin & Yoon, 2016) and K-Pop fan
+behaviour more comprehensively. In the meantime, K-Pop continues to
+embrace all forms of emerging technologies to facilitate its worldwide fandom.
+
+Acknowledgements
+I wish to thank Dr. Graínne Kirwan of the D
+un Laoghaire Institute of Art, Design and
+Technology for her continued guidance and support. Thank you also to Dr. Colette
+Balmain of Kingston University in the United Kingdom for hosting the #BTSandKU
+Conference in 2020 where I got to meet other K-Pop researchers. Finally, all participants in the study are especially thanked.
+
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to the research,
+authorship, and/or publication of this article.
+
+Funding
+The author(s) received no financial support for the research, authorship, and/or publi-
+cation of this article.
+
+ORCID iD
+Derek A. Laffan
+https://orcid.org/0000-0002-5780-1840
+Laffan
+2283
+References
+Billboard. (2017). Psy thanks fans for ’Gangnam Style’ reaching 3 billion views on
+YouTube. https://www.billboard.com/articles/columns/k-town/8046953/psy-gangnam
+style-youtube-3-billion-views
+Branscombe, N. R., & Wann, D. L. (1991). The positive social and self-concept conse-
+quences of sports team identification. Journal of Sport & Social Issues, 15, 115–127.
+
+https://doi.org/10.1177/019372359101500202
+Chadborn, D., Edwards, P., & Reysen, S. (2017). Reexamining differences between
+fandom and local sense of community. Psychology of Popular Media Culture, 7,
+241–249. https://doi.org/10.1037/ppm0000125
+Diener, E. (1984). Subjective well-being. Psychological Bulletin, 95, 542–575. https://ssrn.
+
+com/abstract=2162125
+Forbes. (2019). BTS lead the growth of hallyu to nearly 90 million fans worldwide in 2018.
+
+https://www.forbes.com/sites/caitlinkelley/2019/01/11/bts-lead-growth-of-hallyu-90-
+million-fans-2018/#6a05ad7970bc
+Gantz, W., & Wenner, L. A. (1995). Fanship and the television sports viewing experience.
+
+Sociology of Sport Journal, 12, 263–275. https://doi.org/10.1123/ssj.12.1.56
+Hills, P., & Argyle, M. (2002). The Oxford happiness questionnaire: A compact scale for the measurement of psychological well-being. Personality and Individual Differences,
+33, 1071–1082. https://doi.org/10.1016/S0191-8869(01)00213-6
+Hirt, E. R., & Clarkson, J. J. (2010). The psychology of fandom: Understanding the
+etiology, motives, and implications of fanship. In L. Kahle & A. Close (Eds.),
+Consumer behavior knowledge for effective sports and event marketing (pp. 59–85).
+
+Routledge.
+
+Hurley, O. (2018). Sport cyberpsychology. Routledge.
+
+Jin, D. Y., & Yoon, K. (2016). The social mediascape of transnational Korean pop
+culture: Hallyu 2.0 as spreadable media practice. New Media & Society, 18,
+1277–1292. https://doi.org/10.1177%2F1461444814554895
+Jung, S., & Shim, D. (2013). Social distribution: K-Pop fan practices in Indonesia and the
+‘Gangnam Style’ phenomenon. International Journal of Cultural Studies, 17, 458–501.
+
+https://doi.org/10.1177/1367877913505173
+Kalkhoff, W., & Barnum, C. (2000). The effects of status-organizing and social identity processes on patters of social influence. Social Psychology Quarterly, 63, 95–115.
+
+https://doi.org/10.2307/2695886
+Kaye, L. K., Carlisle, C. -R., & Griffiths, L. R. W. (2019). A contextual account of the psychosocial impacts of social identity in a sample of digital gamers. Psychology of
+Popular Media Culture, 8, 259–268. https://doi.org/10.1037/ppm0000173
+Kim, M., & Kim, H. (2017). The effect of online fan community attributes on the
+loyalty and cooperation of fan community members: The moderating role of connect
+hours. Computers in Human Behavior, 68, 232–243. https://doi.org/10.1016/j.chb.2016.
+
+11.031
+Kim, S. A. (2013). Television discourse on K-pop and K-pop idol stars’ passion. Journal
+of Communication Research, 50, 45–83 (in Korean).
+
+Kim, Y. H., Lee, D., Nam, G. H., & Song, M. (2014). Exploring characteristics of video consuming behaviour in different social media using K-pop videos. Journal of
+Information Science, 40, 806–822. https://doi.org/10.1177%2F0165551514551498
+2284
+Psychological Reports 124(5)
+Lee, R. M., Draper, M., & Lee, S. (2001). Social connectedness, dysfunctional interpersonal behaviors, and psychological distress: Testing a mediator model. Journal of
+Counseling Psychology, 48, 310–318. https://doi.org/10.1037//0022-0167.48.3.310
+Lee, R. M., & Robbins, S. B. (1995). Measuring belongingness: The social connectedness and the social assurance scales. Journal of Counseling Psychology, 42, 232–241. https://
+doi.org/10.1037/0022-0167.42.2.232
+Lee, S. J., & Nornes, A. M. (Eds.) (2015). Hallyu 2.0: The Korean wave in the age of social media. University of Michigan Press.
+
+McCutcheon, L. E., Gillen, M. M., Browne, B. L., Murtagh, M. P., & Collisson, B.
+
+(2016). Intimate relationships and attitude toward celebrities. Interpersona, 10,
+77–89. https://doi.org/10.5964/ijpr.v10i1.208
+Oh, I., & Park, G. (2012). From B2C to B2B: Selling Korean pop music in the age of new social media. Korea Observer, 43, 365–397. https://www.ekoreajournal.net/issue/view_
+pop.htm?Idx=3650
+Ono, K. A., & Kwon, J. (2013). Re-worlding culture? YouTube as a K-pop
+interlocutor. In Y. Kim (Ed.). The Korean wave: Korean media go global
+(pp. 199–214). Routledge.
+
+Pentecost, R., & Andrews, L. (2010). Fashion retailing and the bottom line: The effects of generational cohorts, gender, fashion fanship, attitudes and impulse buying on fashion expenditure. Journal of Retailing and Consumer Services, 17, 43–52. https://doi.
+
+org/10.1016/j.jretconser.2009.09.003
+Ray, A., Plante, C. N., Reysen, S., Roberts, S. E., & Gerbasi, K. C. (2017). Psychological needs predict fanship and fandom in anime fans. The Phoenix Papers, 3, 56–68.
+
+https://www.researchgate.net/publication/319352964_Psychological_Needs_Predict_
+Fanship_and_Fandom_in_Anime_Fans
+Reysen, S., & Branscombe, N. R. (2010). Fanship and fandom: Comparisons between
+sport fans and non-sport fans. Journal of Sport Behavior, 33, 176–193. https://doi.org/
+10.13072/midss.472
+Reysen, S., Katzarska-Miller, I., Nesbit, S. M., & Pierce, L. (2013). Further validation of a single-item measure of social identification. European Journal of Social Psychology,
+43, 463–470. https://doi.org/10.1002/ejsp.1973
+Reysen, S., Plante, C. N., Roberts, S. E., & Gerbasi, K. C. (2016). Optimal
+Distinctiveness and Identification with the Furry Fandom. Current Psychology, 35
+(4), 638–642. https://doi.org/10.1007/s12144-015-9331-0
+Rosenberg, M. (1965). Society and the adolescent self-image. Princeton University Press.
+
+Schroy, C., Plante, C. N., Reysen, S., Roberts, S. E., & Gerbasi, K. C. (2016). Different motivations as predictors of psychological connection to fan interest and fan groups in
+Anime, Furry, and Fantasy Sport fandoms. The Phoenix Papers, 2, 148–167. https://
+www.researchgate.net/publication/301530927_Different_Motivations_as_Predictors_
+of_Psychological_Connection_to_Fan_Interest_and_Fan_Groups_in_Anime_Furry_
+and_Fantasy_Sport_Fandoms
+Shafer, D. M., & Carbonara, C. P. (2015). Examining enjoyment of casual videogames.
+
+Games for Health Journal, 4, 1–9. https://doi.org/10.1089/g4h.2015.0012
+Tajfel, H., & Turner, J. C. (1979). An integrative theory of inter-group conflict. In W. G.
+
+Austin & S. Worchel (Eds.), The social psychology of inter-group relations (pp. 33–47).
+
+Brooks/Cole.
+
+Laffan
+2285
+Wann, D. L. (1995). Preliminary validation of the sport fan motivation scale. Journal
+of Sport & Social Issues, 19, 377–396. https://doi.org/10.1177%2F019372395
+019004004
+Williams, J. P. (2016). Negotiating fan identities in K-Pop music culture. Studies in
+Symbolic Interaction, 47, 81–96. https://doi.org/10.1108/S0163-239620160000047015
+Williams, J. P., & Ho, X. X. S. (2014). ‘Sasaengpaen’ or K-pop fan? Singapore youths, authentic identities, and Asian media fandom. Deviant Behavior, 37, 81–94. https://
+doi.org/10.1080/01639625.2014.983011
+Author Biographies
+Derek A. Laffan holds a first class honours degree and research masters degree
+in Applied Psychology from D
+un Laoghaire Institute of Art, Design and
+Technology. He currently works on various internal and international research
+projects in the National Anti-Bullying Research and Resource Centre (ABC) in
+Dublin City University (DCU).
+
+
+
+Document Outline
+
+table-fn1-0033294120961524
+table-fn2-0033294120961524
+
+

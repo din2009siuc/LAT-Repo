@@ -1,0 +1,554 @@
+Journal  of  Fashion  Business 
+Vol.22,  No.6                   Purchasing  Behavior  of  K-pop  Idol  Goods 
+—
+ISSN  1229-3350(Print)          Consumers  in  Korea
+ISSN  2288-1867(Online)
+—
+J.  fash.  bus.  Vol.  22, 
+No.  6:1-13, December.  2018 
+https://doi.org/                Yu  Jin  Kim* ‧ Jieun  Lee** ‧ MiYoung  Lee†
+10.12940/jfb.2018.22.6.1
+                                *CHIPS  inc.,  Production  Development,  Korea
+                                **UBASE  International,  Overseas  Sales,  Korea
+                                Dept.  of  Fashion  Design  &  Textiles,  Inha  University,  Korea
+
+
+Corresponding  author 
+—
+MiYoung  Lee
+Tel  :  +82-32-360-8137
+Fax.:  +82-32-865-8130
+E-mail  :  mylee@inha.ac.kr
+
+
+Keywords                        Abstract
+
+K-pop  idol,  Idol  goods,      Idol  goods  refer  to  products  such  as  cups  and  towels,  or  mementos  or 
+fandom,  Idol  identification,  souvenirs  that  are  manufactured  to  gratify  the  desires  of  fandom  and  may 
+purchase  intention             include  the  facial  images  of  a  star.  The  objective  of  this  research  was  to 
+                                explore  the  purchase  behaviors  of  K-pop  idol  goods.  Two  hundred  and  sixty 
+                                female  idol  goods  purchasers  in  their  twenties  participated  in  an  online  survey. 
+                                Cheering  tools  were  the  most  often  purchased  idol  goods,  followed  by  idol 
+                                slogans  and  dolls.  To  investigate  the  difference  in  idol  goods’  attributes  they 
+                                considered  when  shopping,  respondents  were  divided  into  three  purchase 
+                                groups  based  on  their  annual  total  expense  for  purchasing  idol  goods.  There 
+                                were  significant  differences  among  light,  medium  and  heavy  purchasers  in 
+                                terms  of  goods’  price,  practical  features,  and  scarcity.  The  light  shopper  group 
+                                was  majorly  guided  by  price  and  practical  features  as  compared  to  the  other 
+                                two  groups,  and  heavy  shopper  group  was  majorly  guided  by  scarcity  attribute 
+                                than  in  the  other  two  shopper  groups.  The  more  they  identified  their  favorite 
+                                idols,  the  more  they  worked  hard,  the  higher  their  income,  the  higher  the 
+                                expenses  of  investing  in  idol  products,  the  more  likely  they  were  to  repurchase 
+                                idol  goods.  In  term  of  post-purchase  behavior  of  idol  goods,  most  idol  goods 
+                                purchase  by  fans  were  stored  rather  than  used,  and  few  indicated  that  they 
+                                purchase  two  identical  idol  goods  for  use  and  storage.
+2      Journal  of  Fashion  Business  Vol.22,  No.6
+
+                  I.  Introduction                     Promotion  Agency  (KOTRA),  the  market  size  of  idol 
+                                                       goods  and  idol  portrait-related  products  amounted  to 
+An  idol  is  someone  whose  talents,  achievements,  status, about  75  billion  KRW  as  of  2014  (Yang,  2016).  It  is 
+or  physical  appearance  are  especially  recognized  and estimated  that  the  scale  of  the  idol  goods  industry  has 
+appreciated  by  his  or  her  fans.  Since  objects  of exceeded  100  billion  KRW.  The  items  being  sold  have 
+idolization  come  from  various  domains  of  life,  sport diversified  to  include  a  variety  of  merchandise,  such  as 
+champions,  movie  actors  and  actresses,  television cellphone  cases,  bags,  pouches,  key  rings,  albums, 
+personalities,  pop  stars,  and  political  or  religious  leaders posters,  postcards,  and  cheering  sticks.  The  price  range 
+can  all  be  idolized  figures  (Raviv,  Bar-tal,  Raviv,  & of  these  idol  goods  is  also  wide,  with  the  market 
+Ben-Horn,  1996).  The  fandom  culture  of  Korean  pop showing  affordable  products,  such  as  a  cheering  stick 
+idols  which  started  in  the  1990s  is  a  collective  culture priced  at  18,000  KRW,  as  well  as  high-priced  goods, 
+formed  by  affection  and  enthusiasm  for  stars  (Bae, such  as  earphones   priced  at  over  1.2  million  KRW.
+2012).  Over  the  years,  fandom  culture  has  brought  great    The  negative  aspects  of  fandom  have  also  been 
+changes  to  not  only  consumption  patterns  but  also  the emphasized  along  with  the  long-standing  treatment  of 
+way  profits  are  generated.  This  culture  is  a  complex fandom  culture  as  a  subculture  of  teenagers  or  a  culture 
+media  product  targeting  the  masses  and  has  a  system exclusive  to  women  (An,  Kim,  Jeun,  Jin,  &  Chung, 
+optimized  for  the  environmental  changes  in  the  media 2012).  Recently,  however,  fandom  has  no  longer  been  
+industry  (Kim  &  Yoon,  2012).  With  the  development  of regarded  as  an  exclusive  phenomenon  among  teenagers  as 
+digital  music  and  streaming  services,  it  is  difficult  to more  teenage  girls  who  have  participated  in  fandom 
+reach  increasingly  high  break-even  point  in  the  activities  are  maintaining  their  activities  even  in  their 
+entertainment  market  with   album   sales  alone.    adulthood  (Oh,  2007)  and  the  scope  of  fandom  is 
+Accordingly,  management  agencies  in  the  entertainment expanding.  In  fact,  a  growing  number  of  studies  are 
+market  are  seeking  as  many  ways  as  possible  to  generate reporting  the  positive  aspects  of  fandom  in  people  in 
+maximum  profit  in  a  short  period  of  time.  One  of  the their  20s  and  the  possibility  of  fandom  as  a  type  of 
+ways  that  is  drawing  great  attention  these  days  is  goods leisure  activity  (Kim,  2011;  Sohn,  2012).  Considering  the 
+(Jung  &  Lee,  2009).                                 consumption  aspect  of  fandom,  the  market,  especially  for 
+   With  idols  recently  becoming  mainstream  in  the  music adult  fans  in  their  20s  who  have  purchasing  power,  is 
+industry,  the  K-pop  music  market  itself  is  experiencing too  important  to  be  neglected.  Therefore,  this  study  aims 
+saturation.  In  the  entertainment  market,  management to  explore  the  purchase  behaviors  of  adult   K-pop  idol 
+agencies  are  zooming  in  on  goods  to  generate  maximum goods  consumers  over  the  age  of  20,  an  area  that  has 
+profit  in  a  short  period  of  time,  expanding  related rarely  been  discussed  in  previous  studies.
+businesses,  such  as  opening  and  operating  on/off 
+shopping  malls.  For  example,  SM  Entertainment  is                 II.  Literature  Review
+operating  SMTOWN  COEX  Atrium  in  Samseong-dong, 
+the  company’s  official  store,  which   offers  star-related 1.  K-pop  Music  and  Idols
+content  products,  and  FNC  Entertainment  is  operating  a 
+goods  shop,  FNC  WOW,  in  Myeong-dong.  In  addition K-pop,  an  abbreviation  of  Korean  pop,  refers  to  a 
+to  operating  its  official  (online)  shopping  mall,  YG popular  music  genre  originating  in  South  Korea  and 
+Entertainment  is  also  expanding  its  business  into  the encompassing  a  variety  of  styles  (Wikipedia).  K-pop  does 
+restaurant  industry  with  its  brand  YG  Republique not  represent  a  song;  rather,  it  is  a  genre  that  “fulfills 
+operating  restaurants  in  Seoul,  Jeju  Island,  and  Malaysia both  the  eyes  and  ears,  like  a  musical  production”  (Fhur, 
+(Kim,  2018).  According  to  the  Korea  Trade-Investment 2015,  p.82).  K-pop  hit  songs  tend  to  have  “upbeat 
+                       Yu  Jin  Kim ‧ Jieun  Lee ‧ MiYoung  Lee  /  Purchasing  Behavior  of  K-pop  Idol  Goods  Consumers  in  Korea      3
+
+tunes,  family-friendly  lyrics  and  fiendishly  catchy  hooks” 1996).  The  adoration  of  celebrities  such  as  idols  is  a 
+(“What  is  K-pop...,”  2016).  K-pop  songs  are  usually normal  part  of  identity  development  in  childhood  and 
+paired  with  big-budget  music  videos  in  which  perfectly adolescence  (Giles  &  Maltby,  2004).  Studies  show 
+groomed   girl  or  boy   bands   perform  flawless    that  the  idolization  of  celebrities  decreases  with  age 
+choreographed  dances  .                               and  it  is  more  prevalent  among  girls  than  boys.  Girls 
+   In  most  cases,  the  source  of  K-pop’s  popularity  lies were  also  found  to  place  more  emphasis  on  singers' 
+with  idol  groups.  The  “idol”  culture  is  prominent  in  the features  than  boys  (Raviv  et  al.,  1996). 
+Korean  entertainment  industry,  and  major  entertainment 
+companies,  such  as   SM,  JYP,  and  YG,  audition,  select, 2.  K-pop  Idol  Fandom
+and  train  teenagers  to  debut  in  groups,  such  as  girl  or 
+boy  bands,  rather  than  as  individual  artists.  Teenage Fandom  is  a  compound  word  composed  of  “fan,” 
+trainers  usually  spend  five  to  ten  years  acting,  developing meaning  “fanatic,”  and  “-dom,”  a  suffix  that  refers  to  a 
+personally,  singing,  and  dancing  to  debut.  “Idols”  are domain,  kingdom,  or  collection  of  persons.  The  origin  of 
+often  subject  to  strict  rules  regarding  their  personal  lives “fanatic”  can  be  traced  to  the  Latin  adjective  fanaticus 
+to  conform  to  a  perfectly  managed  public  persona and   is  used  to  refer  to  a  person  who  enthusiastically 
+(“What  is  K-pop...,”  2016).  From  casting  to  debut,  the loves  someone  or  is  absorbed  in  a  certain  field  (Reysen 
+entertainment  companies  in  Korea  perfect  their  young &  Branscombe,  2010,  p.177).  Fandom  in  Korea  is  a 
+acts,  encourage  them  to  get  along,  and  censure  scandals diachronic  cultural  phenomenon  that  has  existed  since 
+(Ono  &  Kwon,  2013).                                 the  establishment  of  the  entertainment  industry,  including 
+   An  idol  refers  to  a  person  whose  talents,  An  idol the  modern  movie  and  music  industries.  Since  the 
+refers  to  a  person  whose  talents,  achievements,  mid-1990s,  when  young  idol  stars  managed  by  big 
+status,  or  physical  appearances  are  recognized  and entertainment  companies  started  to  appear,  fandom  has 
+appreciated  by  his  or  her  fans  (Cheung  &  Yue,  2000). been  enthusiastically  enjoyed  by  teenage  girls  and  women 
+The  objects  of  idolization  come  from  various  domains in  their  twenties.  Fandom  is  often  understood  as  a  group 
+of  life,  such  as  sport,  entertainment,  music,  politics, of  individual  fans  among  the  public,  but  in  the  field  of 
+and  religion.  Thus,  pop  stars,  along  with  sport cultural  studies,  fandom  is  considered  a  kind  of  social 
+champions,  movie  actors  and  actresses,  and  politicians phenomenon  and  cultural  practice  (Jung  &  Lee,  2009).
+or  religious  leaders  can  all  become  idolized  figures    In  the  past,  female  fandom  was  regarded  as  a 
+(Raviv  et  al.,  1996).  It  is  proposed  that  the  idolization subculture  exclusively  organized  by  adolescents   and 
+of  pop  singers,  beyond  the  consumption  of  music  and many  negative  aspects  of  idol  fandom  were  expressed 
+collection  of  basic  information  about  it,  which  also (Kim  &  Yang,  2013).  However,  recent  idol  fandom  has 
+reflect  a  normal  appreciation  of  music,  is  based  mostly shifted  away  from  being  the  exclusive  property  of 
+on  two  important  components:  worship  and  modeling teenagers  to  a  leisure  activity  of  people  in  their  twenties. 
+(Cheung  &   Yue,  2000).  Worship   refers  to  an    Such  fan  base  expansion   can  be  attributed  to  two 
+unusually  intense  admiration  of  an  idol.  This  can  be factors:  first,  fans  who  were  in  their  late  teens  when 
+expressed  in  behaviors  such  as  actively  collecting their  idol  stars  first  emerged  in  the  1990s  and  continued 
+information  or  items  related  to  idol  groups  or  trying with  their  fandom  activities  into  their  adulthood,  and 
+to  meet  the  idolized  figure  in  person.  Modeling  is  the secondly,  the  idol’s  career  expansion  from  one  area  (e.g., 
+desire  to  be  like  an  idol.  This  phenomenon  can  be music)  to  other  areas  in  the  entertainment  industry  (e.g., 
+seen  in  imitating  idolized  characters  by  copying  an TV  dramas,  films,  or  variety  shows)  (Lee,  2015).  Even 
+idolized  person's  outfit,  hairstyle,  manner   of  speech, those  who  do  not  know  idol  music  have  more 
+and  behavior  (Cheung  &  Yue,  2000;  Raviv  et  al., opportunities  to  discover  idols  from  dramas,  movies,  or 
+4      Journal  of  Fashion  Business  Vol.22,  No.6
+
+variety  shows,  which  has  helped  expand  the  range  of 3.  Idol  Goods
+fans  to  other  age  groups. 
+   This  expansion  of  idols’  fan  bases  has  also  influenced Idol  goods  refer  to  products  or  mementos  that  are 
+the  area  of  fandom  activities.  With  the  increased  number manufactured  to  gratify  the  desires  of  fandoms  and 
+of  fans  in  their  20s  with  purchasing  power  participating include  the  facial  images  of  stars,  such  as  on  cups, 
+in  fandom  activities,  it  has  become  quite  natural  for  fans towels,  or  souvenirs.  With  the  Korean  music  record 
+to  make  donations  to  charity  under  the  fan  community market  shrinking  and  more  idol  groups  with  distinct 
+name  or  the  name  of  the  celebrity  they  are  supporting, concepts  emerging,  the  entertainment  industry  has 
+engage  in  social  activities  with  the  celebrity,  and  make  a undergone  a  change  in  its  business  structure  through 
+“tribute”  to  the  star  on  special  occasions,  such  as  their having  to  deal  with  the  shortened  life  cycle  of  idol 
+birthday  or  debut  anniversary.  Fans  are  increasingly groups  in  Korea.  It  has  become  impossible  to  counteract 
+engaging  in  positive  activities,  such  as  collecting  small crises  adequately   in  terms  of  profitability  through  the 
+amounts  of  money  with  fellow  fans  and  donating   it  to record  industry  alone  (Jung  &  Lee,  2009).  The  higher 
+underprivileged  people  in  the  name  of  the  star  as  part  of break-even  point  and  shortened  life  cycle  of  idol  groups 
+their  birthday  celebration  event  (Park,  2014).  Unlike  the resulting  from  the  shrinking  of  the  record  market  have 
+fandom  culture  in  the  past,  which  was  led  mainly  by created  an  environment  in  which  the  entertainment 
+teenagers  fanatically  idolizing  young  singers,  the  recent industry  is  forced  to  make  maximum  profit  in  a  short 
+idol  fandom  culture  is  led  by  fans  in  their  20s  expressing period  of  time.  Under  these  circumstances,  the 
+their  enthusiasm  by  “supporting”  the  idols.  Fans  have entertainment  industry  set  the  goal  of  establishing  a 
+grown  out  of  being  passive  consumers  and  became  active revenue  model  to  generate  maximum  revenue  in  a  short 
+producers  who  personally  manage  and  promote  stars period  of  time  and  secure  a  market  (fandom)  that  will 
+(Jung  &  Lee,  2009).                                 consume  the  products  and  services  offered  by  the  model. 
+   Many  papers  have  examined  the  impact  of  fandom Borrowing  the  “one-source-multi-use”  method  from  the 
+activity  on  the  development  and  school  adaptation  of Japanese  entertainment  industry,  where  the  idol  industry 
+adolescents.  Previous  studies  found  that  fandom   developed  early,  the  Korean  entertainment  industry 
+activity  has  both  positive  and  negative  effects  on  the adopted  the  revenue  model  of  spin-off  products  by 
+development  of   adolescents.  Teenagers  with  a     offering  numerous  products   related  to  idol  stars  or 
+moderate  level  of  the  idolization  of  pop  stars  had highlighting  the  closeness  between  idol  stars  and  their 
+good-quality  interpersonal  relationships,  a  lower  fandoms  (Jung  &  Lee,  2009). 
+distress  level,  higher  life  satisfaction,  and  a  more    Idol  goods  were  available  even  in  the  1990s  when  the 
+valuable  social  self  than  the  group  who  had  a  lower  or first  generation  of  idol  stars  was  active.  Stationery  shops 
+higher  level  of  idolization  of  pop  stars  (Lim,  2002). in  front  of  schools  sold  notebooks  and  pencil  boards 
+Fandom  activity  also  has  some  positive  effects  on featuring  portraits  of  idols,  and  entertainment  companies 
+adolescents’   emotional  resilience,  which  is  the  ability (e.g.,  SM  entertainment)  have  even  sold  H.O.T.  fan  cards 
+to  adapt  to  stressful  situations  and  cope  with  life’s and  necklaces  containing  the  DNA  of  each  member  of 
+ups  and  downs  (An,  Kim,  Jeun,  &  Chung,  2013).  the  group  (N.  R.  Lee,  2016).  Nowadays,  a  variety  of 
+Previous  research  reporting  negative  effects  regarding idol  goods  are  being  released,  including  mobile  phone 
+participation  in  fandom  activities  revealed  that  strong cases,  cushion  covers,  key  rings  ,  clothes,  candles, 
+fandom  activities  and  idolization  tended  to  have  a expensive  earphones,  and  official  cheering  tools,  such  as 
+negative  impact  on  adolescents  ’  school  life  adjustment balloons  and  glow  sticks.  SM  Entertainment,  one  of  the 
+(An  et  al.,  2012).                                  largest  entertainment  companies  in  Korea,  operates  a 
+                                                       department  in  charge  of   planning  and  developing  idol 
+                       Yu  Jin  Kim ‧ Jieun  Lee ‧ MiYoung  Lee  /  Purchasing  Behavior  of  K-pop  Idol  Goods  Consumers  in  Korea      5
+
+goods.  The  company  has  opened  offline  stores  in  COEX, 4.  Idol  Identification
+Myeong-dong,  and  Dongdaemun  in  Seoul,  Korea,  and 
+displays  and  sells   various  goods  of  the  idols  or  artists Fandom  is  a  social  identity  that  a  group  of  people  have 
+the  company  is  managing.  A  wide  range  of  idol  goods in  common  in  relation  to  their  favorite  entertainer. 
+and  related  services  are  offered  at  the  SMTOWN  COEX According  to  social  identity  theory,  the  self-concept  is 
+Atrium,  an  entertainment  center  complex  of  SM    comprised  of   a   personal  identity,  encompassing 
+Entertainment.  In  this  store,  witty  products,  candy  with  a idiosyncratic  characteristics,  such  as  abilities  and  interests, 
+singer's  character  on  the  lid,  and  jelly  featuring  the and  a  social  identity,  encompassing  salient  group 
+singer's  logo  can  be  found.  Other  major  entertainment classifications  (Tajfel  &  Turner,  1985).  Individuals  tend 
+companies,  such   as   FNC    Entertainment,  YG      to  classify  themselves  and  others  into  various  social 
+Entertainment,  and  Cube  Entertainment,  also  operate groups,  such  as  organizational  membership,  gender,  and 
+official   online  and  offline  shopping  malls  (Kim,  2018;  S. age  cohort.  According  to  Bandura’s  (1986)  social 
+B.  Lee,  2016;  Seo,  2015).                          cognitive  theory,  a  person’s  identification  with  a  model 
+   In  addition  to  the  official  idol  goods  sold  by (e.g.,  a  celebrity)  determines   how  likely  that  person  is 
+entertainment  companies  that  manage  idol  stars,  the to  enact  the  modeled  behavior.  When  people  perceive 
+market  for  “unofficial”  idol  goods  made  by  fans  is  also themselves  as  similar  to  the  model,  they  are  more  likely 
+growing.  The  variety  of  these  unofficial  goods  is  as  wide to  enact  whatever  behavior  is  modeled  by  that  person. 
+as  that  for  official  goods,  ranging  from  basic  items,  such Bandura  (1986)  believes  that  the  identification  process  is 
+as  photo  books,  to  miscellaneous  products,  such  as based  on  the  viewer's  perception  that  the  model  is 
+calendars,  key  rings,  USB  flash  drives,  memo  pads, similar  to  him-  or  herself.  In  the  case  of  a  celebrity, 
+stickers,  and  dolls.  Allegedly,  the  proceeds  from  selling identification  may  also  determine  behavioral  compliance. 
+these  unofficial  idol  goods  go  toward  indirectly The  more  a  person  identifies  with  a  celebrity,  the  more 
+promoting  the  artists  through  donations  and  support likely  that  person  may  be  to  engage  in  advocated 
+activities,  but  this  kind  of  commercial  activity  of  selling behaviors. 
+goods  made  from  idol  photographs  is  basically  illegal,    Identification  is  also  used  to  explain  professional  sports 
+infringing  the  idol’s  portrait  rights  and  copyright  (Yang, fans’  loyalty  toward  sports  teams.  Mahony  (1995) 
+2016).                                                 defined  team  identification  as  “the  degree  to  which  a  fan 
+   Meanwhile,  the  retail  industry  is  also  trying  to  develop defines  him/herself  by  the  same  attribute  that  defines  the 
+products  through  collaboration  with  famous  idol  groups. sport  team”  (p.12).  Team  identification  has  been  used  in 
+For  instance,  E-Mart  collaborated  with  SM  to  introduce previous  studies  as  a  determinant  of  sport  consumers' 
+private  label  products  under  the  names  of  SM  stars  such impulse  shopping  behaviors  for  licensed  team  apparel 
+as  EXO  and  Super  Junior  (e.g.,  Exo  Sonjjajang,  Super (Kwon  &  Amstrong,  2002).  Sport  team  identification  has 
+Junior  Ramen,  SHINee  Sparkling   Water).  The  products been  one  of  the  major  psychological  orientations  with 
+are  private  label  products  that  were  previously  sold  by which  sport  scholars  and  marketers  explain  and  predict 
+E-Mart  and  were  newly  packaged  after  being  named sport  consumers'  behaviors.  The  higher  the  level  of 
+after  stars.  Although  their  contents  are  similar  to  those consumer  identification  with  the  respective  sports  team, 
+of   current  products,  their  sales  have  increased  by  an the  greater  the  likelihood  of  the  consumer  making  an 
+average  of  190.5%  compared  with  before  they  started impulse  purchase  of  the  team's  merchandise.
+working  together  (Kwon,  2016).  Despite  the  growth  in    According  to  previous  studies  on  professional  baseball 
+the  K-pop  idol  goods  market,  there  is  a  lack  of  research fandom   (Kim  &  Baek,  2010;  Kim,  Kim,  &  Hur,  2010), 
+on  consumer  buying  behavior  among  idol  goods     team  identification  has  a  direct  effect  on  team 
+consumers.  attachment,  and  the  purchase  satisfaction  regarding 
+6      Journal  of  Fashion  Business  Vol.22,  No.6
+
+pro-baseball  licensing  clothing  goods  has  a  positive  effect star.  Based  on  the  previous  research  (Kim,  2011;  Raviv 
+on  the  relationship  quality  between  consumers  and et  al.,  1995),  eight  items  were  developed.
+pro-baseball  teams  as  well  as  the  team  brand  loyalty  of    Idol  identification:  This  refers  to  a  fan’s  perceived 
+consumers.  In  this  study,  we  will  examine  other sense  of  unity  with  and  belonging  to  an  idol.  It  reflects 
+consumer  characteristics  (e.g.,  demographic  characteristics, the  extent  of  the  psychological  connection  the  fan  has  to 
+degree  of  fandom  activities)  as  well  as  whether  idol the  idol  in  terms  of  wanting  to  feel  close  to  the  idol  and 
+identification  affects  the  purchase   intention  of  idol  fans. experiencing  the  success  as  well  as  failure  of  that  idol. 
+                                                       Idol  identification  was  measured  with  eight  items  adopted 
+               III.  Research  Method                  from  Mael  and  Ashforth  (1992)  and  Kim  et  al.  (2010).
+                                                          Repurchase  intention:  This  refers  to  the  intent  to  keep 
+1.  Research  Questions                                on  using  a  product  or  service.  Purchase  intention  has 
+                                                       typically  been  used  to  predict  actual  purchase  behavior 
+This  study  aims  to  explore  idol  fans’  purchase  behaviors and  has  been  a  reliable  indicator.  Repurchase  intention 
+of  K-pop  idol  goods  and  factors  affecting  their was  measured  with  two  items  (five-point  scale),  such  as 
+repurchase  intentions  regarding  K-pop  idol  goods.  The “I  will  continue  to  purchase  idol  goods  in  the  future.” 
+research  questions  aim   to:                            Goods   purchasing  experience:  Questions   on 
+   1)  Explore  idol  fans’  purchase  behaviors  for  K-pop respondents’  purchasing  experience  of  idol  goods  (e.g., 
+idol  goods;                                           total  expenditure  on  idol  goods,  types  of  purchased 
+   2)  Examine  what  product  attributes  idol  fans  place goods,  purchase  satisfaction,  and  post-purchase  behavior) 
+importance  on  when  purchasing  and  how  these  product were  also  asked.
+attributes  differ  depending  on  shopper  characteristics;    Demographics:  Questions  on  demographics  (e.g.,  age, 
+   3)  Explore  the  post-purchase  behavior  of  K-pop  idol educational  background,  occupation,  income)  were  also 
+goods  consumers  ;  and                               asked.
+   4)  Identify  factors  that  influence  repurchase  intention 
+for  K-pop  idol  goods.                               3.  Sampling
+
+2.  Measurement                                        According  to  previous  studies,  the  size  of  the  adult 
+                                                       fandom  (those  over  the  age  of  20  )  for  idols  is 
+All  measurement  items  were  adopted  from  previous increasing  in  Korea  (Kim,  2011;  Sohn,  2012).  It  has 
+studies  and  reworded  for  this  current  study  context  if been  reported  that  adult  fans  with  economic  power  who 
+necessary.  All  items  were  measured  on  a  five-point are  over  the  age  of  20  are  actively  consuming  idol  goods 
+rating  scale,  with  endpoints  defined  by  1  =  “very (Hong,  2014).  Therefore,  the  subjects  recruited  for  this 
+unlikely”  to  5  =  “very  likely.”  The  definitions  of  each study  were  women  in  their  20s  who  are  currently 
+variable  and  measurement  items  used  in  this  study  are  as involved  in  or  have  experiences  with  K-pop  idol  fan 
+follows:                                               activities  and   purchasing  K-pop  idol  goods.  The 
+   Attributes  of  idol  goods:  This   refers  to  what  is participants  for  the  survey  were  recruited  by  posting  an 
+emphasized  when  consumers  make  purchase  decisions announcement  about  the  survey  on  online  K-pop  idol 
+(price,  quality,  practicality,  scarcity,  and  design)  and  was group  communities  and  fan  galleries,  such  as  EXO, 
+measured  with  six   items.                           SHINee,  BIGBANG,  and  Super  Junior  fan  boards  and 
+   Severity  of  fandom  activities:  This  refers  to  the  degree other  online  communities  for  women  in  their  20s. 
+of  affection  and  positive  feelings  one  has  for  an  idol
+                       Yu  Jin  Kim ‧ Jieun  Lee ‧ MiYoung  Lee  /  Purchasing  Behavior  of  K-pop  Idol  Goods  Consumers  in  Korea      7
+
+4  .  Data  Collection  and  Analysis                  responses  or  responses  without  purchasing  experience  of 
+                                                       idol  goods  were  excluded  and  260  samples  were  used  for 
+An  online  survey  was  conducted  for  this  study.  The data  analysis.  The  respondents’  average  age  of  23.8  years 
+participants  for  the  survey  were  recruited  by  posting  an and  most  are  students  (66.9%).   In  terms  of  annual  total 
+announcement  on  online  K-pop  idol  group  communities expense  for  purchasing  idol  goods,  39.2%  of  the 
+and  fan  galleries.  Women  who  met   the  criteria  and respondents  spent  less  than  100,000  won,  33.1%  spent 
+wished  to  participate  in  the  survey  were  instructed  to 100,000  won  or  more  but  less  than  300,000  won,  and 
+follow  the  link  on  the  announcement,  which  led  to  the 13.5%  of  them  spent  300,000  won  or  more  but  less  than 
+“Research  Information  and  Consent”  page.  They  were 500,000  won.  Detailed  information  of  respondents’ 
+asked  to  click  the  “I  agree”  button  to  indicate  their characteristics  are  presented  in  Table  1.
+consent  after  reading  the  information  and  agree  to    Examining  the  type  of  idol  goods  purchased  by  the 
+voluntarily  participate  in  the  research.  Participants  who respondents,  it  was  found  that  cheering  tools  such  as 
+agreed  to  participate  in  the  study  were  directed  to  an cheering  sticks  and  other  tools  with  slogans  made  up  the 
+online  questionnaire  page.  Frequency  analysis,  factor largest  group,  followed  by  dolls,  stickers,  and  photo 
+analysis,  reliability  tests,  ANOVA,  Duncan's  multiple books  (See  Figure  1).
+range  test,  and  multiple  regression  analysis  were  used  for 
+data  analysis.                                        2.  Reliability  Analysis
+ 
+                    IV.  Results                       The  reliability  analysis  results  indicated  relative  high 
+                                                       values  of Cronbach’s α :  .762  for  the  items  used  to 
+1.  Sample  Characteristics                            measure  idol  identification  and  .760  for  items  used  to 
+                                                       measure  the  severity  of  the  fandom.  Items  used  and 
+A  total  of  283  responses  were  collected  through  the results  of  the  reliability  test  are  presented  in  Table  2. 
+online  survey.  Among  these  responses,  23  incomplete 
+
+
+Table  1.  Sample  Characteristics 
+
+                                   Characteristics                                     Frequency  (%)
+                                                    20-24                                163  (67.3)
+            Age
+                                                    25-29                                97  (32.7)
+                                            Less  than  300,000  KRW                     72  (27.7)
+                                       300,000  -  less  than  1,000,000  KRW            122  (46.9)
+           Income                     1,000,000  -  less  than  1,500,000  KRW           26  (10.0)
+                                      1,500,000  -  less  than  2,000,000  KRW           26  (10.0)
+                                           More  than  2,000,000  KRW                     14  (5.4)
+                                                    Student                              174  (66.9)
+                                                 Office  worker                          31  (11.9)
+         Occupation                               Professional                            20  (7.7)
+                                                 Service  worker                          11  (4.2)
+                                                    Other                                 24  (9.2)
+                                            Less  than  100,000  KRW                     102  (39.2)
+                                        100,000 – less  than  300,000  KRW               86  (33.1)
+ Amounts  of  goods  purchased 
+          annually                      300,000 – less  than  500,000  KRW               35  (13.5)
+                                       500,000 – less  than  1,000,000  KRW               18  (6.9)
+                                           More  than  1,000,000  KRW                     19  (7.3)
+ 8      Journal  of  Fashion  Business  Vol.22,  No.6
+
+
+                               Figure  1.  Types  of  Idol  Goods  Purchase  by  the  Respondents
+
+
+Table  2.  Results  of  Reliability  Tests 
+
+       Variables                                             Items                                         Cronbach’s  α
+                       I  feel  like  I'm  being  criticized  when  Idol  is  being  criticized.
+                       I  feel  like  I'm  being  praised  when  Idol  is  praised.
+                       Idol  is  called  "Our  OO."
+                       I'm  interested  in  what  other  people  think  of  idol  groups.
+  Idol  identification I  feel  good  when  others  think  positively.                                         .762
+                       I  think  the  success  of  an  idol  is  my  success.
+                       I  always  copy  the  hair-style  of  my  favorite  idol  or  buy  clothes  or  accessories 
+                           that  he  or  she  is  wearing.
+                       I  try  to  resemble  his  words,  actions,  and  thoughts.
+                       I  always  go  to  concerts  and  performances  of  my  favorite  idol,  no  matter  what.
+                       To  go  to  the  fan  signing  event,  I  buy  three  or  more  albums.
+                       I  buy  the  person's  record  or  album,  or  DVD.
+ Severity  of  fandom 
+                       For  public  broadcasting  and  pre-recordings,  we  have  a  nightly  sleep  and  a  night.
+       activities                                                                                              .760
+                       When  a  new  album  is  released,  I  stream  it  to  rank  the  music  source  site.
+                       Join  an  official  fan  club.
+                       Collect  photos  and  videos.
+  Purchase  intention  I'll  keep  buying  next  time. 
+                                                                                                               .602
+    of  idol  goods    When  I  purchase  items,  goods  will  be  considered  first.
+                       Yu  Jin  Kim ‧ Jieun  Lee ‧ MiYoung  Lee  /  Purchasing  Behavior  of  K-pop  Idol  Goods  Consumers  in  Korea      9
+
+3.  Product  Attributes  Considered  when  Purchasing  practicality  attribute  (p <.01);  the  light  shopper  group 
+    Idol  Goods                                        placed  more  importance  on  practicality  than  the  other 
+                                                       two  groups,  suggesting  that  consumers  whose  annual 
+To  investigate  the  difference  in  product  attributes expenditure  on  idol  goods  was  lower  considered  the 
+considered  when  purchasing  idol  goods,  the  respondents practicality  of  the  goods  more.  A  difference  between 
+were  divided  into  three  purchase  groups  based  on  their purchase  groups  was  also  observed  in  the  importance 
+annual  total  expenditure  on  idol  goods.  After  dividing placed  on  the  scarcity  attribute  (e.g.,  limited  edition)  (p 
+the  respondents  into  the  light  shopper  group  (less  than <.001),  with  heavy  shoppers  responding  more  strongly 
+100,000  won,  39.2%),  medium  shopper  group  (100,000 than  the  other  two  purchase  groups,  stating  that  this 
+won  or  more  but  less  than  300,000  won,  33.1%),  and attribute  was  an  important  consideration  when 
+heavy  shopper  group  (300,000  won  or  more,  27.7%), purchasing  idol  goods.
+one-way  ANOVA  was  conducted  to  determine  the 
+difference  in  attributes  of  goods  considered  between  the 4.  Factors  Affecting  Repurchase  Intention  Regarding
+groups.  The  analysis  results  are  shown  in  Table  3.     Idol  Goods
+   The  results  indicated  that  all  three  groups  emphasized 
+the  design  of  the  idol  goods  when  making  purchase The  severity  of  fandom  activities,  idol  identification, 
+decisions  and  there  were  no  significant  differences  among annual  expenditure  on  idol  goods,  and  income  were  used 
+the  three  groups  for  the  design  attribute.  It  was  also as  the  independent  variables,  while  the  consumers’ 
+found  that  there  was  a  significant  difference  between  the repurchase  intention  was  used  as  the  dependent  variable 
+groups  regarding  the  price  attribute  (p <.001).  The  results to  determine  the  relationship  between  the  variables. 
+showed  that  the  light  shopper  group  emphasized  the According  to  the  regression  analysis,  repurchase  intention 
+price  of  goods  more  than  the  other  two  groups, was  significantly  affected  by  idol  identification,  the 
+suggesting  that  consumers  whose  annual  expenditure  on severity  of  fandom  activities,  expenditure  on  idol  goods, 
+idol  goods  was  higher  considered  the  price  of  each and  income.  Fans  with  stronger  idol  identification,  many 
+product  less  .  Regarding  the  quality  of  idol  goods,  all purchases  of  idol  goods,  more  active  engagement  in 
+three  groups  responded  that  they  considered  this  attribute fandom  activities,  and  a  higher  income  tended  to  have 
+important,  showing  an  average  score  of  4.2  and  no higher  repurchase  intention  regarding  idol  goods.  By 
+significant  differences  between  the  groups.  Meanwhile,  a examining  the  beta  coefficients,  it  was  found  that 
+difference  was  observed  between  the  groups  regarding  the consumer’s  annual  expenditure  on  idol  goods  had  the
+
+
+Table  3.  Attributes  of  Idol  Goods  Compared  by  Shopper  Group
+
+        Attributes  of          Light  Shopper     Medium  Shopper      Heavy  Shopper
+                                                                                                F
+         Idol  Goods              (n=  102)            (n=  86)            (n=  72)
+                                3.60  (1.007)        3.23(1.037)         2.82(1.079)
+           Price                                                                            11.940***
+                                     A                    B                  C
+                                 4.58  (.667)        4.38  (.828)        4.28(1.091)
+           Quality                                                                            2.807
+
+                                3.20  (1.178)        2.95(1.217)         2.63(1.227)
+       Practical  feature                                                                    4.746**
+                                     A                   A                    B
+                                3.12  (1.253)        3.91(1.070)          4.28(.859)
+          Scarcity                                                                          25.973***
+                                     C                    B                  A
+
+Note.  Duncan  test  results  A<B<C,  ***p<.001,  **  p<.01,  *  p<.05
+10      Journal  of  Fashion  Business  Vol.22,  No.6
+
+
+Table  4.  Factors  Affecting  Repurchase  Intention  Toward  Idol  Goods
+
+   Dependent  V.             Independent  V.              β             t           R2            F
+
+                        Severity  of  fandom  activities .206       3.713***
+
+                            Idol  identification         .268       5.264***
+    Repurchase 
+                                                                                   .419       46.060***
+     intention
+                     Expenses  for  purchase  idol  goods .364      6.748***
+
+                                 Income                  .129        2.526*
+
+**p<.01,  ***p<.001 
+
+greatest  influence  (β  =  .364),  followed  by  idol                    Ⅴ.  Discussion
+identification  (β  =  .268)  and  the  severity  of  fandom 
+activities  (β  =  .206).                              In  this  study,  we  explored  idol  fans’  (those  in  their  20s) 
+                                                       purchase  behaviors  regarding  K-pop  idol  goods  and 
+5.  Post-purchase  Behaviors  of  Idol  Goods  Consumers factors  affecting  their  repurchase  intentions.  In  terms  of 
+                                                       product  attributes,  light  purchasers  placed  importance  on 
+Concerning  the  behaviors  of  the  respondents  after the  price  and  practicality  of  the  goods  and  heavy 
+purchasing  idol  goods  (allowed  multiple  responses),  65% shoppers  indicated  that  scarcity  and  limited  editions  were 
+responded  that  they  “use  the  purchased  goods,”  and  it important  considerations  when  purchasing  idol  goods.  In 
+was  also  found  that  these  goods  being  used  were  mainly terms  of  factors  affecting  repurchase  intention  regarding 
+cheering  tools  or  practical  products.  The  majority  of idol  goods,  respondents  who  identified  more  with  their 
+respondents  (87.3%)  indicated  that  they  “store  the favorite  idols,  engaged  in  more  fan  activity,  worked  hard, 
+purchased  goods.”  These  respondents  noted  that  whatever had  a  higher  income,  and  had  higher  expenditure  on  idol 
+they  did  not  use  was  stored.  Among  the  reasons  given, products   tended  to  have  high  repurchase  intention.  For 
+storing  the  purchased  goods  showing  the  highest  fans  with  more  experience  of  purchasing  idol  goods, 
+percentage  can  be  attributed  to  the  nature  of  idol  goods, scarcity,  such  as  limited  editions,  was  an  important 
+which  are  often  composed  of  products  that  are   attribute  in  selecting  products.  Thus,  entertainment 
+impractical  .  Thirty-nine  percent  of  the  respondents companies  that   want  fans  to  continue  purchasing  idol 
+responded  that  they  “display  the  purchased  goods”;  items goods  need  to  plan  a  line  of  merchandise  that  possesses 
+such  as  photographs  and  life-size  cutouts   are  included the  scarcity  attribute.  On  the  other  hand,  since  new  fans 
+in  this  category.  About  nine  percent  of  the  respondents or  those  who  do  not  invest  much  money  in  idol  goods 
+stated  that  they  would  resell  the  goods  because  they  had place  more  importance  on  price  and  practical  attributes, 
+bought  multiple  same  products  or  no  longer  liked  the merchandise  planning  should  reflect  various  price  points 
+idol.  It  should  also  be  noted  that  few  (5%)  respondents and  product  attributes  depending  on  the  characteristics  of 
+indicated  that  they  “make  duplicate  purchases”  of  one consumers,  including  reasonably  priced   and  practical 
+product  for  both  use  and  display  or  both  for  use  and products  for  these  fans.
+storage.                                                  When  examining  the  respondents'  behavior  after 
+                      Yu  Jin  Kim ‧ Jieun  Lee ‧ MiYoung  Lee  /  Purchasing  Behavior  of  K-pop  Idol  Goods  Consumers  in  Korea      11
+
+purchasing  idol  goods,  some  respondents  said  they  used studies  have  been  conducted  in  Korea  to  investigate  team 
+some  of  the  products  (e.g.,  cheering  tools).  However,  the identification  and  its  effect  on  licensed  clothing 
+majority  of  responses  indicated  that  they  would  store  the satisfaction  and  team  loyalty  (Kim  &  Baek,  2010;  Kim 
+idol  goods  they  had  purchased,  confirming  that  the et  al.,  2010).
+goods  were  not  bought  for  practical  use.  Additionally  ,    Although  the  idol  goods  market  is  growing  significantly 
+five  percent  of  the  respondents  said  they  purchased due  to  K-pop's  growth,  little  research  has  been 
+multiple  items  of  one  product  for  both  use  and  display conducted  on  consumers’  behavior  regarding  idol  goods. 
+or  both  for  use  and  storage.  Some  of  the  respondents This  study  can  help  increase  our  understanding  of  idol 
+indicated  that  they  resold  the  idol  goods  they  purchased. goods  consumers  and  provide  basic  data  for  planning 
+Since  many  fans  have  shown  that  they  purchase  several effective  marketing  strategies  that  incorporate  knowledge 
+of  the  same  products  for  use  and  storage  or  use  and of  idol  fans’  goods  consumption  behaviors. 
+display,  planning  a  set  of  products  for  these  consumers    The  subjects  of  this  study  were  limited  to  female  idol 
+may  also  be  considered.  Of  course,  even  without  these fans  in  their  20s  due  to  the  increased  number  of  adult 
+set  products,  consumers  will  buy  their  favorite  idol idol  fans  in  Korea.  Therefore,  follow-up  studies  will 
+goods,  but  planning  these  sets  for  the  continued  sales  of need  to  include  a  wider  range  of  consumers  in  terms  of 
+the  goods  would  help  strengthen  the  fandom  in  the  long age  groups  and  genders.  As  K-pop  grows  globally,  it 
+run.                                                   would  be  also  meaningful  to  analyze   the  characteristics 
+   We  also  examined  the  relationships  among  the  fan’s of  consumers  in  different  regions  and  cultures.
+income,  prior  purchasing  characteristics  (e.g.,  annual 
+expenditure  on  idol  goods),  severity  of  fandom  activities,          References
+idol  identification,  and  repurchase  intention  regarding  idol 
+goods.  Fans  with   stronger  idol  identification,  many An,  E.  M.,  Kim,  S.  H.,  Jeun,  S,  Y.,  Jin,  S.  M.  &  Chung, 
+purchases  of  idol  goods,  more  active  engagement  in I.-J.  (2012).  The  effect  of  fandom  activity 
+fandom  activities,  and  a  higher  income  tended  to  have participation  on  adolescent  school  adjustment.  Social 
+higher  repurchase  intention  regarding  idol  goods.  Among Science  Research  Review,  28(2),  421-446. 
+these  factors,  it  was  found  that  consumers’  previous An,  E.,  Kim,  J.,  Jeun,  S.,  &  Chung,  I.-J.  (2013).  The 
+goods  purchasing  behavior  (annual  expenditure  on  idol effect  of  fandom  activities  on  resilience  in  adolescence 
+goods)   had  the  greatest  influence.  Since  idol  fans  with in  combination  with  gender  differences.  Studies  on 
+high  annual  purchases  of  idol  goods  are  fans  who  are Korean  Youth,  24(2),  149-175.
+highly  satisfied  with  the  goods  they  have  purchased,  it  is Bae,  H.  (2012). 팬덤을  통한  하위문화  자본  축적과  활용 
+expected  that  they  will  be  highly  willing  to  repurchase [Capital  accumulation  and  utilization  of  subculture 
+idol  goods.  Thus,  planning  idol  goods  for  fans  who  have through  fandom]. Proceedings  of  Korean  Association 
+already  bought  many  will  want  to  buy  by  offering for  Broadcasting  &  Telecommunication  Studies  2012 
+aesthetically  pleasing  products  and  constant  interest fall  conference,  (pp.  200-205).  Seoul:  Korean 
+would  increase  their  intention  to  purchase  as  well  as Association  for  Broadcasting  &  Telecommunication
+strengthen  their  fandom  in  the  long  run.  The  results  of Bandura,  A.  (1986). Social  foundations  of  thought  and 
+this  study  also  confirmed  that  such  as  idol  identification action:  A  social  cognitive  theory.  Englewood  Cliffs, 
+has  a  significant  effect  on  repurchase  intention  for  idol NJ:  Prentice-  Hall,  Inc
+goods.  This  finding  supports  Kwon  and  Amstrong’s Cheung,  C.,  &  Yue,  X.  (2000).  Idol  worshipping  for 
+(2002)  study,  which  pointed  out  that  sport  team   vain  glory,  illusory  romance  or  intellectual  learning:  A 
+identification  is  a  major  psychological  factor   that  can  be study  in  Nanjing  and  Hong  Kong. International 
+used  to  predict  sport  consumers'  behaviors.  Additionally,  Journal  of  Adolescence  and  Youth,  8(4),  299-317. 
+12      Journal  of  Fashion  Business  Vol.22,  No.6
+
+  doi:  10.1080/02673843.2000.9747859                    product   on  purchase  satisfaction,  team  brand 
+Fuhr,  M.  (2015). Globalization  and  popular  music  in identification,  consumer-team  brand  relationship 
+  South  Korea:  Sounding  out  Kpop  (Vol.  7).  Abingdon: quality  and  team  brand  loyalty. Korea  Journal  of 
+  Routledge.                                             Sports  Science,21(3),  1402-1416.
+Giles,  D.  C.,  &  Maltby,  J.  (2004).  The  role  of  media Kwon,  H.  H.,  &  Armstrong,  K.  L.  (2006).  Impulse 
+  figures  in  adolescent  development:  Relations  between purchases  of  sport  team  licensed  merchandise:  what 
+  autonomy,  attachment,  and  interest  in  celebrities. matters? Journal  of  Sport  Management,  20(1), 
+  Personality  and  individual  differences,  36(4),  813-822. 101-119.
+  doi:10.1016/S0191-8869(03)00154-5                    Kwon,  Y.  E.  (2016,  April  5). ‘엑소  손짜장 ’  ‘ 슈주  라면 ’ 
+Hong,  J.  Y.  (2014). 팬덤문화  [Fandom  Culture].  Seoul:  잘  나가네    [‘Exo  Sonjjajang’,  ‘Super  Junior  Ramen’  are 
+  Communication  Books,  Inc.                            going  well].  Hankookilbo.  Retrieved  March  19,  2017 
+Jo,  S.  H.  (2015.  July.21.). 굿즈의  신세계 [The  new  world from   http://www.hankookilbo.com/News/Read/2016 
+  of  goods]. VOGUE  Korea.  Retrieved  September  3,    04050828455921
+  2016,  from  http://www.vogue.co.kr/2015/07/21/%ea   Lee,  N.  R.  (2016,  October  25). 90년대  문방구에서  팔았던 
+  %b5%bf%ec%a6%88%ec%9d%98-%ec%8b%a0%ec%84               충격적인  물건,  DNA     목걸이  [Shocking  stuff  sold  from 
+  %b8%ea%b3%84/?_C_=11                                   the  stationery  store  in  the  '90s,  a  DNA  necklace]. 
+Jung,  M.-W.,  &  Lee,  N.-Y.  (2009).  Fandom  managing Munhwanews.  Retrieved  January  6,  2018,  from  
+  stars,  entertainment  industry  managing  fandom. Media, http://www.munhwanews.com/news/articleView.html?i
+  Gender,  &  Culture,  12, 191-240.                     dxno=27145
+Kim,  H.  (2018,  February  2).  Evolving  idol  goods...a Lee,  S.  B.  (2016,  May  2).  Banana  milk”  key  ring,  “Exo 
+  mixed  view  of  consumers  [진화하는  ' 아이돌  굿즈 '... 엇갈   earphone”...consumer-catching  ‘goods’  [마나나우유 . 키
+  린  소비자  시선].    Sisa  Journal-e.  Retrieved  March  19, 링,  엑소  이어폰  ... 소비자  줄세우는    ‘ 굿즈 ’]. The  Korea 
+  2017   from  http://www.sisajournal-e.com/biz/article  Economic  Daily.   Retrieved  March  20,  2017,  from 
+  Print/179629                                           http://www.hankyung.com/news/app/newsview.php?aid
+Kim,  H.,  &  Yoon,  T.-J.  (2012).  How  the  IDOL  system =201605020752i
+  in  Korean  pop  culture  works  :  An  explorative  study Lee.  S.  H.  (2015).  (A)  qualitative  study  on  fandom  of 
+  on  the  dual  structure  of  production/consumption  of 20's  women  :  focused  on  correlation  idol  worship  and 
+  idol  culture.  Broadcasting  &  Communication.  13(4), romanticization  of  the  idol,  intimacy  with  the  idol, 
+  45-82.                                                 self-esteem (Unpublished  Master’s  thesis).  Korea 
+Kim,  S.-A.  (2011).  A  study  on  the  masculinity  image  of University,  Seoul,  Korea.
+  male  idol  stars  and  the  construction  of  fandom Lim,  Y.  S.  (2002).  Adolescent  idolization  of  public  stars 
+  identity:  Focusing  on  2PM  and  SHINee. Media,      and  psycho-social  adjustment. Korean  Journal  of 
+  Gender  &  Culture,  19(9),  5-38.                     Youth  Studies,  9(2),  57-78.
+Kim,  S.-H.,  &  Yang,  D.-O   (2013).  A  study  on   Mael,  F.,  &  Ashforth,  B.  E.  (1992).  Alumni  and  their 
+  middle-aged  female  fandom  to  reality  competition  TV alma  mater:  A  partial  test  of  the  reformulated  model 
+  Star. Media,  Gender  &  Culture,  25, 35-71.          of    organizational  identification. Journal  of 
+Kim,  S.-Y.,  &  Baek,  H.-R. (2010).  The  effect  of  brand organizational  Behavior,  13(2),  103-123.  https://doi. 
+  personality  and  identification  of  professional  baseball org/10.1002/job.4030130202
+  female  fan  on  the  brand  attachment  and  commitment. Oh,  J.  Y.  (2007). Fandom  of  married  women  in  their 
+  Korea  Journal  of  Sports  Science,  19(4),  691-702. 30s  and  cultural  politics  of  age:  Focusing  on 
+Kim,  Y.  M.,  Kim,  C.  K.,  Hur,  J. (2010).  The  effects  of 'DongBangShinGi'  fandom (Unpublished  Master’s 
+  the  attribute  of  professional  baseball  licensing  clothing thesis).  Ewha  Woman‘s  University,  Seoul,  Korea.
+                      Yu  Jin  Kim ‧ Jieun  Lee ‧ MiYoung  Lee  /  Purchasing  Behavior  of  K-pop  Idol  Goods  Consumers  in  Korea      13
+
+Ono,  K.  A.,  &  Kwon,  J.  (2013). Re-worlding  culture. Sohn,  S.  (2012).  Local  context  and  global  fandom  of 
+  The  Korean  wave:  Korean  media  go  global.  London: hallyu  consumption  -   The   case  of  korean 
+  Routledge.                                             connection  in  France. Journal  of  Media  Exonomics 
+Park,  S.  J.  (2014,  August  1). 진화하는  팬덤 : 사랑을  사랑    &  Culture,  10(1),  45-85.
+  으로,  기부문화  앞장서는  팬덤        [Evolving  fandom,  love  Tajfel,  H.  and  Turner,  J.  C.  (1985).  The  social 
+  as  love,  fandom  leading  the  culture  of  donation]. 10 identity  theory  of  intergroup  behavior.  In:  Worchel, 
+  Asia.   Retrieved   January   6,   2018,    from       S.  and  Austin,  W.  G.  (Eds).  Psychology  of 
+  http://tenasia.hankyung.com/archives/290966            intergroup    relations   (pp.7-24).    Chicago: 
+Raviv,  A.,  Bar-Tal,  D.,  Raviv,  A.,  &  Ben-Horin,  A. Nelson-Hall.
+  (1996).  Adolescent  idolization  of  pop  singers:  Causes, What  is  K-pop?  South  Korean  music  goes  global  (2016, 
+  expressions,  and  reliance. Journal  of  Youth  and   Aug.  8). The  Week.  Retrieved  March  21,  2017,  from 
+  Adolescence,  25(5),  631-650.  https://doi.org/10.1007/ https://www.theweek.co.uk/75331/what-is-k-pop-sout
+  BF01537358                                             h-korean-music-goes-global
+Reysen,  S.,  &  Branscombe,  N.  R.  (2010).  Fanship  and Yang,  H.  S.  (2016). 한류의  핵심  중국  아이돌시장을  노려
+  fandom:  Comparisons  between  sport  and  non-sport   라   ② [Go  after  the  Core  Chinese  Idol  Market  ② ]. 
+  fans. Journal  of  Sport  Behavior,  33(2),  176-193.  Kotra  International  Market  News.  Retrieved  March 
+Seo,  E.  N.  (2015,  December  14). 청소년  사로잡는  신종       20,    2017,   from    https://news.kotra.or.kr/user/ 
+  등골브레이커 ‘ 굿즈     ’ 의  세계  [A  world  of  teen-crazy     globalBbs/kotranews/4/globalBbsDataView.do?setIdx=24
+  backbreaker  'Goods']. MBN.  Retrieved  March  19,     3&dataIdx=148952
+  2017  from  http://news.mk.co.kr/newsRead.php?no= 
+  1177243&year=2015                                    Received  (June  28,  2018)
+                                                       Revised  (August  16,  2018)
+                                                       Accepted  (September  12,  2018)

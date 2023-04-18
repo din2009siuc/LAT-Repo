@@ -1,0 +1,322 @@
+                     Advances in Social Science, Education and Humanities Research, volume 655
+    3rd Tarumanagara International Conference on the Applications of Social Sciences and Humanities (TICASH 2021)
+
+    Self-Control and Aggressive Behavior in Adolescent 
+                         Fans of Korean Pop (K-pop) 
+                                                    
+             Marsinondang Marsinondang1, Fransisca Iriani Roesmala Dewi1* 
+                                                    
+1Faculty of Psychology, Universitas Tarumanagara, Jakarta 
+* Corresponding author. Email: fransiscar@fpsi.untar.ac.id 
+ 
+ABSTRACT 
+Aggressiveness that occurs among adolescent fans of K-pop music is a worrying phenomenon, one of which is 
+aggressive behavior. Aggressiveness is an action that is harmful, unpleasant and aims to hurt. This study aims 
+to determine the relationship between self-control and aggressiveness in adolescent K-pop fans. This study 
+involved 424 respondents with an age range of 12 to 21 years (M = 6.88 SD = 2.493). In this study, there are 6 
+criteria for being a K-pop fan. The sampling technique used was purposive and snowball sampling. Self control 
+measurement with Self Control Scale and Aggression Questionnaire to measure aggressiveness. This research 
+uses non-experimental quantitative methods with correlational research type. The data analysis technique using 
+Spearman Rho shows that there is a significant negative relationship between self-control and aggressiveness 
+in adolescent K-pop fans with a correlation value of r = -0.452; p = 0.000 <0.005. 
+ 
+Keywords: Self-Control, Aggressiveness, Adolescence K-pop fans 
+ 
+ 
+1. INTRODUCTION                                       Identity vs identity confusion is the process of individuals 
+                                                      finding out their identity, what they want to do in life, and 
+Globalization and technological advances are factors for the where their life will lead in the future [5]. 
+entry  of  South  Korean  culture  which  is  often  called  the In  this  psychosocial  process,  adolescents  can  develop  a 
+Korean wave to Indonesia. Korean wave or Korean wave is negative self-identity, one of which is aggressive behavior. 
+a  term  for  the  spread  of  South  Korean  culture  globally Aggressive  behavior  that  is  usually  carried  out  by 
+throughout  the  world [1]. In  Indonesia,  the  Korean  wave adolescents  is  also  because  at  this  time  adolescents 
+affects people's lives a lot in the K-Pop music genre, fashion experience  high  emotional  tension  due  to  adolescent 
+styles, ways of speaking and other things [2].        psychosocial processes [5]. 
+One of the most popular elements of the Korean wave in Aggressive behavior is defined as behavior that is carried 
+Indonesia is the K-pop music genre. The majority of K-pop out intentionally to harm others with the motivation to avoid 
+music fans in Indonesia are adolescence. This is based on a loos or avoid injury to oneself [6]. According to DeWall et 
+survey conducted by Kumparan [3] to 100 K-pop fans. The al. [7] aggressive  behavior  brings  enormous  harm  to 
+result,  about  57  percent  of  them  are  in  their  teens  12-20 individuals,  groups,  and  society.  There  are  three  basic 
+years. Teenagers as K-pop fans usually do activities such as processes  of  aggressive  behavior,  namely instigation 
+following updates about idol figures they admire, watching triggers the urge to attack (provocation). Impellance refers 
+music videos or shows featuring their idols and following to  a  strong  urge  to  attack  when  faced  with  a  particular 
+the  idol's  lifestyle,  such  as  clothing  models,  hairstyles, provocation  in  a  given  context  (a  trait  of  aggressive 
+shoes, and so on.                                     behavior), and inhibition refers to a situational factor that 
+Remarkably teenagers scream hysterically when their idols increases  the  likelihood  that  people  will  ignore  an 
+come. Without even realizing in everyday life teenagers can aggressive drive (a trait of self-control or self-control) [8]. 
+cry when their idols have problems [4].               According to  Buss  and  Perry [9] aggressive  behavior  is 
+Teenagers as fans of K-pop cannot be separated from the grouped  into  physical  aggression  or  physical  aggression, 
+developmental  process  during  adolescence.  Adolescence verbal aggression or verbal aggression, anger or aggression 
+starting at the age of 11 to 20 years is a transition period in the form of anger is an individual's angry emotion, and 
+from  childhood  to  adulthood  that  involves  changes  in hostility or aggression in the form of hatred or hostility. 
+physical, cognitive, emotional, and social and is influenced Aggressive behavior is also carried out by teenage K-pop 
+by socio-economic and cultural conditions [5]. At this stage, fans. Aggressive behavior is done to defend the idol. K-pop 
+adolescents  are  in  the  process  of  developing  their  own fans  will  always  stand  up  for  their  idols.  They  must  be 
+identity  and  emotional  development. Commensurate  with protected. This causes teenage K-pop fans to attack other 
+Erikson's theory of the main task of adolescent psychosocial people on social media. 
+development,  namely  identity  versus identity  confusion. 
+
+
+                         Copyright © 2022 The Authors. Published by Atlantis Press SARL.
+    This is an open access article distributed under the CC BY-NC 4.0 license -http://creativecommons.org/licenses/by-nc/4.0/. 1403
+                     Advances in Social Science, Education and Humanities Research, volume 655
+
+
+According to Meidita [10] hallyu culture in Indonesia has a writer assumes that adolescent K-pop fans have a tendency 
+negative impact, namely triggering fan wars that make them to behave aggressively and self-control has a relationship 
+war  of  words  because  of  differences  in  music  tastes, with  this  aggressive  behavior.  Thus,  this  study  aims  to 
+hobbies, and others that often occur in cyberspace. Pertiwi's determine  the  relationship  between  self-control  and 
+research [1] shows  that  fans  who  love  their  idols aggressive behavior of K-pop fans. 
+unconsciously behave excessively tend to be aggressive.  
+Aggressive  behavior  carried  out  by  teenage  K-pop  fans  
+occurred  in  2017,  dangdut  singer  Ayu  Ting  Ting was 2. METHOD 
+attacked  by  K-pop  fans  who  were  mostly  teenagers  with  
+malicious comments on social media such as Twitter and The  characteristics  of  the  participants  are:  a)  adolescents 
+Instagram.  They  attack  because  they  feel  that  Ayu  Ting with an age range of 12 to 21 years; b) male or female; and 
+Ting has offended their fandom or club [11]. Another case c) there is a limit to the criteria, namely that participants are 
+of aggressive behavior occurred in 2017, when the K-pop considered fans if they meet 3 of the 6 criteria as fans. Six 
+boy  group  GOT7  arrived  at  Soekarno  Hatta  Airport  in criteria for categories as fans are: 1) looking for information 
+Indonesia. Their fans greeted them by swarming their idols about favorite idols, 2) having goods or merchandise from 
+and trying to touch and pinch their idols [12]. An interview favorite idols, 3) watching content from favorite idols (such 
+with a class XII student in 2019 regarding behavior as a K- as:  video  performances,  music  videos,  songs,  variety 
+pop fan stated that she had several times fought with haters shows),  4)  participate  in  or  create  events  about  favorite 
+on social media or even with her own friends when her idol idols,  5)  watch  favorite  idol  concerts,  6)  join  fan 
+was insulted [13].                                    communities. 
+This aggressive behavior of teenage K-pop fans can harm This  study  is  a  quantitative  study  using  correlational 
+and annoy others, even their own idols. So that aggressive methods with the aim of knowing the relationship between 
+behavior like this must be inhibited or avoided so as not to self-control  and  aggressive  behavior  in  adolescent  K-pop 
+harm others. Denson et. al. [8] stated that the factor that can fans. The research procedure was carried out by collecting 
+inhibit  aggressive  behavior  is  self-control. According  to data through a questionnaire in the form of a google form 
+Finkel  and  Campbell [14] self-control  is  defined  as  the link to measure the two variables, namely the self-control 
+ability  to  override  certain  responses  or  responses  to scale  variable  and  the  aggression  questionnaire  given  to 
+harmonize with others.                                young K-pop fans. 
+Self-control  is  also  important  for  a  person's  aggressive The  self-control  measuring  instrument  is  a  measuring 
+behavior.  The  stronger  a person's  self-control,  the  less instrument designed by Tangney et al. [15] and has been 
+aggressive  behavior,  including  attacking  and  provocation translated into Indonesian by Leono [18]. This measuring 
+behavior [15] [7]. Based on research on 270 adolescents in instrument  consists  of  5  dimensions  and  has  25  valid 
+Banda  Aceh  showed  a  relationship  between  self-control statements.  The  first  dimension  is  self-discipline  (α  = 
+with adolescent aggressive behavior. Adolescents with high 0.633), the second dimension is deliberate/non impulsive (α 
+levels of self-control are able to consider the consequences = 0.760), the third dimension is healthy habits (α = 0.666), 
+of their actions and can avoid aggressive behavior [16]. the fourth dimension is work ethics (α = 0.561), and the fifth 
+Another  study  of  150  adolescents  also  showed  that  there dimension is reliability. (α = 0.525). 
+was  a  relationship  between  self-control  and  aggressive Questionnaires  were  distributed  to  the  research  sample 
+behavior.  His  research  using  Averill's  theory  found  that totaling 424 teenage K-pop fans. The sampling technique is 
+behavior  control  and  decisional  control  had  a  significant purposive sampling and snowball sampling. Furthermore, 
+negative effect on adolescent aggression behavior, meaning correlation  testing  was  conducted  using  the  Spearman 
+that  the  lower  the  score  for  the  behavioral  control  and Correlation technique to determine the relationship between 
+decisional  control  aspects,  the  higher  the  aggressive self-control and aggressive behavior of K-pop fans. 
+behavior of a person, on the contrary, the higher the score  
+for behavior control and decisional control, the higher the  
+score  for  behavior  control  and  decisional  control.  low  a 3. FINDING AND DISCUSSION 
+person's aggressive behavior [17].                     
+Self-control according to Tangney, Baumeister, and Boone The participants in this study were mostly female (n = 401) 
+[15] can be measured based on 5 dimensions, namely: 1) (94.6%), including the category of late teens 19-21 years (n 
+self-discipline  (self-discipline),  assessing  individual = 210) (49.5%), education currently S1 (n = 180), fans K-
+discipline in doing something; 2) deliberate/non-impulsive pop for more than 3 years (n = 242) (57.1%), searching for 
+(non-impulsive  actions  or  actions),  assessing  individual information about their idol for more than 3 hours (n = 194), 
+tendencies to take non-impulsive actions; 3) healthy habits owning  K-pop goods  or  merchandise  (n  =  400)  (94.3%), 
+(healthy  lifestyle),  assessing  the  individual's  healthy watching content K-pop (n = 422) (99.5%), watching K-pop 
+lifestyle;  4)  work  ethic  (work  ethic),  assessing  individual concerts (n = 344) (81.1%) , community participation (n = 
+ethics  in  carrying  out  daily  activities;  5)  reliability, 332) (78.3%) and more participants in this study who did 
+assessing the individual's ability to handle a task.  not attend the event K-pop (n = 348) (82.1%). 
+Based on the description of these symptoms, the authors are The  results  of  the  study  stated  that  there  was  a  negative 
+interested in knowing the relationship between self-control relationship between self-control and aggressive behavior 
+and  aggressive  behavior  in  adolescent  K-pop  fans.  The 
+
+
+                                                                                                   1404
+                     Advances in Social Science, Education and Humanities Research, volume 655
+
+
+in adolescent K-pop fans which means the higher the self- teenage years. This is not in accordance with the research 
+control, the lower the aggressive behavior, and the lower the conducted by Setiowati et al.[26] that early adolescence has 
+self-control, the higher the aggressive behavior. The results aggressive behavior in the medium category and 15.53% in 
+of this study are in accordance with Dewall's [7] statement the high category. Rice's theory [27] also says that ages 13 
+that  self-control  has  a  very  important  role  in  a  person's to 18 are more vulnerable. In this study, the authors suspect 
+aggressive behavior. Therefore, adolescents who have self- that the reason there is no difference in aggressive behavior 
+control  can  inhibit  or  avoid  aggressive  behavior  in  their in terms of age is because in this study 50% were late teens 
+environment [8]. The results of this study are also supported who may have been able to reduce aggressive behavior. 
+by previous research conducted by Auliya and Nurwidawati Furthermore, based on the results of research on the self-
+[19] which  found  that  there  was  a  negative  relationship control  of  adolescent  K-pop  fans  and  gender,  there  is  no 
+between self-control and aggressive behavior in high school significant  difference  in  self-control  in  terms  of  gender. 
+students. Furthermore, research from Sentana and Kumala This is contrary to the theory of Gottfredson and Hirschi 
+[16] also  states  that  self-control  is  associated  with  low [28] which states that there are differences in the level of 
+aggressive  behavior.  This  is because  self-control  can self-control between men and women. Men have a lower 
+regulate and direct one's behavior in a better direction when level of self-control than women, so they are often found to 
+negative impulses occur. The difference between this study do negative and deviant actions. The author suspects that 
+and  previous  research  is  the  location  of  the  study,  the the reason there is no difference in self-control of adolescent 
+number  of  research  subjects,  and  the  criteria  for  research K-pop fans in terms of gender is because the level of self-
+participants.                                         control of men and women in this study tends to be the same 
+Several  previous  studies  have  shown  high  self-control  in and  the  number  of  participants  in  this  study  is 
+adolescents. However, this study shows that young K-pop disproportionate  because  adolescent  male  fans  are  only 
+fans have moderate self-control. This is in line with research represented  by  23  participants.  ,  while  there  were  401 
+conducted  by  Zahri  and  Savira [20] which  resulted  in  a female fan teenagers. 
+moderate  level  of  self-control.  This  study  is  consistent Meanwhile,  in  this  study,  it  was  found  that  there  was  a 
+because of the similarity in age of the study participants. significant  difference  between  the  aggressive  behavior  of 
+This shows that self-control does not always show a high adolescent K-pop fans' hospitality in terms of gender. The 
+value. The  author  also  suspects  that  the  reason  for  self- results showed that male hostility or anger was greater than 
+control  in  this  study  is  moderate  because  there  are  other female. This is in accordance with the research of Casper et 
+variables  or  factors  that  can  influence  self-control  and al.[29] that boys are generally more aggressive than girls. 
+aggressive behavior in adolescent K-pop fans but are not This finding is also in line with Taylor's opinion [19] that 
+included in this study, one of which is conformity. Moderate men are more likely to display aggressive behavior in their 
+self-control  means  that  participants  in  this  study  are still daily lives than women. 
+able to control themselves against their aggressive behavior Further findings show that there is no difference between 
+but the possibility to carry out aggressive behavior is also the  dimensions  of  aggressive  behavior  of  K-pop  fans  in 
+still there due to social urges or pressure. This is in line with terms of community participation. This is not in accordance 
+Palinoan's research [21] that conformity to the group will with  Cavell's  theory [26] that  several  factors  cause 
+affect  adolescent  aggressive  behavior  because  it  is aggressive behavior, namely peer or group, and community. 
+influenced by social norms.                           The reasons why adolescents follow their group decisions 
+The results of the research on aggression behavior show that are fear of not having friends, fear of being alienated, and 
+K-pop  fans  have  low  aggression  behavior,  but  the  verbal fear  of  opposing  group  decisions.  Adolescents  will  do 
+aggression  dimension  has  a  higher  value  than  the  other anything  including  deviant  actions  to  be  involved  as 
+dimensions. This is because the participants in this study members  of  a  group [30]. The  author  suspects  that  the 
+95% were women. This finding is in line with the research reason there is no difference in the aggressive behavior of 
+conducted by Saputra et al. [22] that women tend to carry adolescent  K-pop  fans  in  terms  of  participation  in  the 
+out  aggressive  behavior  in  the  form  of  anger  and  hatred. community, is because the level of aggressive behavior in 
+Sari's research [23] also shows that women tend to engage adolescent K-pop fans in this study is relatively low. 
+in  verbal,  passive  and  indirect  forms  of  aggression, This  study  has  weaknesses  that  need  to  be  addressed  in 
+compared to men.                                      future research. Regarding the concept used, the author only 
+Further  findings,  in  this  study,  there  was  no  significant looks at age, gender and peer or group environment. While 
+difference  between  the  self-control  of  adolescent  K-pop on the other hand, other influencing factors are ethnicity, 
+fans  when  viewed  based  on  adolescent  age.  The  author family socioeconomic status and conformity. The number 
+suspects that the reason there is no difference in self-control of participants is not balanced between men and women, so 
+in terms of age is because in this study 50% were late teens the  data  obtained  is  not  representative.  In  addition,  the 
+who probably already had good self-control. This is in line measuring  instrument  for  the  variable  of  aggression 
+with the theory of Risnawita and Ghufron [24] which says behavior  used  contained  several  inaccurate  sentences,  so 
+age  affects  self-control.  Hurlock's  opinion  [25] also  says that the results did not represent the participants well. 
+that the older a person gets, the higher his self-control will  
+be. Based  on  the  results  of  research  on  the  aggressive  
+behavior  of  K-pop  fans  and  their  teens,  there  is  also  no  
+difference between  aggressive  behavior  based  on  their 
+
+
+                                                                                                   1405
+                   Advances in Social Science, Education and Humanities Research, volume 655
+
+
+4. CONCLUSIONS                                  Bushman. (2010). 23 - Aggression. Handbook of Social 
+                                                Psychology, 734, 833–863. 
+Based  on  the  results  of  the  data  obtained  and  processed, [7] DeWall, C. N., Finkel, E. J., & Denson, T. F. 
+several  conclusions  can  be  concluded. First, there  is  a (2011). Self-control inhibits aggression. Social and 
+negative  and  significant  correlation  between  self-control Personality Psychology Compass, 5(7), 458–472. 
+and  aggressive  behavior  in  adolescent  K-pop  fans.  This https://doi.org/10.1111/j.1751- 9004.2011.00363.x 
+shows  that  the  higher  the  self-control,  the  lower  the  
+aggressive behavior in adolescent K-pop fans. Second, the [8] Denson, T. F., DeWall, C. N., & Finkel, E. J. 
+lower the self-control, the higher the aggressive behavior in (2012). Self-control and aggression. Current Directions 
+adolescent K-pop fans.                          in Psychological Science, 21(1), 20–25. 
+The study has several limitations that could be improved to https://doi.org/10.1177/0963721411429451 
+provide  better  data. Future  research  can  also  review  a  
+number  of  other  factors  that  can  influence  aggressive 
+                                                [9] Buss, A. H., & Perry, M. (1992). The Aggression 
+behavior,  such  as  genes,  family,  ethnicity  and  family 
+                                                Questionnaire. Journal of Personality and Social 
+socioeconomic  status,  provocation,  conformity,  learning 
+processes and environmental influences.         Psychology, 63(3), 452–459. 
+For teenagers, K-pop fans are expected to be able to apply https://doi.org/10.1037/0022-3514.63.3.452 
+the concept of self-control in daily life, so that it can reduce  
+aggressive behavior in K-pop fans. In addition, self-control [10] Meidita, A. (2013). Dampak negatif industri hallyu 
+also  has  a  positive  effect  on  human  psychological ke Indonesia. Jurnal Ilmu Hubungan Internasional 
+functioning which certainly has benefits for teenagers who Universitas Mulawarman, 1(4), 979- 992. 
+are fans of K-pop.                               
+ In  research,  the  dimensions of  emotional  stability  or [11] Soejoethi, I. (2017, Agustus 26). Ayu Ting Ting 
+neuroticism have a significant relationship. Based on this, diundang nonton EXO, penggemar geram. 
+one  way  to  reduce  the  spread  of  internet  addiction  is  to Liputan6.https://www.liputan6.com/showbiz/read/3072
+maintain mental health, or stress from individuals. Several 442/ayu-ting-ting-diundangnonton-exo-penggemar-
+studies have revealed that the internet is a coping medium  geram 
+when  stressed. Keeping  you  from  stress  can  be  quite  
+effective  in  avoiding  internet  addiction. There  are  other [12]Hidayati. L. (2017, Februari 2017). Video 
+things that can be done for coping with stress besides using Kedatangan GOT7 di Jakarta Heboh Banget. 
+the internet, such as exercising, gardening and other things https://celebrity.okezone.com/read/2017/02/18/33/1621
+that don't use the internet.                    765/video-kedatangan-got7-di- jakarta-heboh-banget 
+                                                 
+                                                [13] Aprilias, N., & Wiyono, B. D. (2020). Keefektifan 
+                                                konseling rational emotive behaviour teknik cognitive 
+REFERENCES 
+                                                disputation untuk mengurangi tingkat fanatisme 
+[1] Pertiwi, S. A. (2013). Konformitas dan fanatisme terhadap idola pada siswa penggemar k-pop. JKI 
+pada remaja korean wave. Psikoborneo, 1(2), 84–90. (Jurnal Konseling Indonesia), 5(1), 12–20. 
+                                                https://doi.org/10.21067/jki.v5i1.3434 
+[2] Widarti. (2016). Konformitas dan fanatisme    
+remaja kepada korean wave (studi kasus pada     [14] Finkel, E. J., & Campbell, W. K. (2001). Self-
+komunitas penggemar grup musik CN Blue). Jurnal control and accommodation in close relationships: An 
+Komunikasi, 7(2), 12–18.                        interdependence analysis. Journal of Personality and 
+                                                Social Psychology, 81(2), 263–277. 
+[3] Kumparan. (2017, Januari 6). Fanatisme fans k-pop: https://doi.org/10.1037/0022-3514.81.2.263 
+candu dan bumbu remaja. Kumparan.Com.            
+https://kumparan.com/kumparank-pop/fanatisme-fans- [15] Tangney, J. P., Baumeister, R. F., & Boone, A. L. 
+k-pop-candu- dan-bumbu-remaja                   (2004). High self-control predicts good adjustment, 
+                                                less pathology, better grades, and interpersonal 
+[4] Ninggalih.(2011, Oktober 4).Waspada demam   success. Journal of Personality. 
+idola. Majalah 1000 guru.Net.                   https://doi.org/10.1111/j.0022-3506.2004.00263.x 
+http://majalah1000guru.net/2011/10/waspadai-demam-  
+idola/                                          [16] Sentana, M. A., & Kumala, I. D. (2017). Perilaku 
+                                                agresi dan kontrol diri pada remaja di banda aceh. 
+[5] Papalia, D. E., & Martorell, G. (2015). Experience Jurnal Sains Psikologi, 6(2), 51–55. 
+human development. In McGraw Hill Education. [6] https://doi.org/10.17977/um023v6i22017p051 
+                                                 
+
+
+                                                                                        1406
+                    Advances in Social Science, Education and Humanities Research, volume 655
+
+
+ [17]Badriyah, L. (2018). Sikap mengontrol diri dalam associations with popularity, peer acceptance, rejection, 
+ menurunkan kecenderungan berperilaku agresi pada and friendship characteristics. Journal of Adolescence, 
+ remaja.JurnalIlmiahSyi’ar,18(1),13.https://doi.org/10.2 80(2020), 41–52. 
+ 9300/syr.v18i1.1567                             https://doi.org/10.1016/j.adolescence.2019.12.012 
+ [18] Leono, M. (2019). Hubungan antara kontrol diri  
+ dan konformitas pada remaja perokok akif. Skripsi [30]Fauzan, F., Firman, F., & Daharnis, D. (2018). 
+ (Tidak Diterbitkan). Jakarta: Universitas Tarumanagara Relationship between self-control and peer conformity 
+                                                 with smoking behavior. International Conferences on 
+ [19]Auliya, M., & Nurwidawati, D. (2014). Hubungan Educational,Social Sciences and Technology. 233–239. 
+ kontrol diri dengan perilaku agresi pada siswa sma https://doi.org/10.29210/2018134 
+ negeri 1 padangan bojonegoro. Character, 2(3), 1–6.  
+ https://jurnalmahasiswa.unesa.ac.id/index.php/character  
+ /article/view/10992                              
+                                                  
+[20] Zahri, H., & Savira, I. (2017). Pengaruh self-  
+ control terhadap perilaku agresi remaja pada pelajar  
+ smp dan smu di sekolah perguruan nasional. Jurnal  
+ JP3SDm, 1–10.ejournal.borobudur.ac.id › index.php ›  
+ psikologi › article › download                   
+                                                  
+ [21] Palinoan, E. L. (2015). Kelompok geng motor di  
+ samarinda. Psikoborneo 3(2), 173–185. Papalia, D. E.,  
+ & Martorell, G. (2015). Experience Human         
+ Development. McGraw Hill Education               
+ 
+ [22] Saputra, W. N. E., Hanifah, N., & Widagdo, D.  
+ N. (2017). Perbedaan tingkat perilaku agresi 
+ berdasarkan jenis kelamin pada siswa sekolah 
+ menengah kejuruan kota yogyakarta. Jurnal Kajian 
+ Bimbingan Dan Konseling, 2(4), 142–147. 
+ https://doi.org/10.17977/um001v2i42017p142 
+ 
+ [23] Sari, D. K. (2016). Profil perilaku agresi siswa dan 
+ implikasinya bagi bimbingan konseling. Jurnal 
+ Konseling Dan Pendidikan, 4(2), 105. 
+ https://doi.org/10.29210/17100 
+ [24] Risnawati, Rini & Ghufron, M. N. (2012). Teori-
+ teori psikologi. Yogyakarta: Ar-Ruzz Media Group. 
+ [25] Sari, F., & Handayani, N. S.(2019). Remaja 
+ penggemar k-pop. Jurnal Psikologi, 12(2), 179– 188. 
+ https://doi.org/10.35760/psi.2019.v12i2.2442%0A179 
+  
+ [26] Setiowati, E. A., Suprihatin, T., & Rohmatun. 
+ (2017). Gambaran perilaku agresi anak dan remaja di 
+ area beresiko. Prosiding Temu Ilmiah X Ikatan 
+ Psikologi Perkembangan Indonesia, 170–179 
+ 
+ [27] Nisfiannoor, M., & Yulianti, E. (2005). 
+ Perbandingan perilaku agresi antara remaja. Jurnal 
+ Psikologi, 3(1), 1–18. 
+ [28] Andaryani, D., & Tairas. (2013). Perbedaan 
+ tingkat. jurnal psikologi pendidikan dan perkembangan, 
+ 2(03), 86–115. 
+  
+ [29]Casper, D. M., Card, N. A., & Barlow, C. (2020). 
+ Relational aggression and victimization during 
+ adolescence: A meta-analytic review of unique 
+
+
+                                                                                         1407
