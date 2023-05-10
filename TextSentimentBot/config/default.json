@@ -1,0 +1,6 @@
+{
+	"CHANNEL_ACCESS_TOKEN": "CsTz4rIGiyrthKm4dumDYNjrEEEMJlCJ5hJP3VZtTyyo/KezSRIupJZyKHwJvdWvg3/OUlM2W2w5imMfHfCd5QNAwrY0OTBWUFGsfB6eqmL36CH7wC9BYsxkQg3AggTyGqPhQgxk1fx5dwdBn9BsLAdB04t89/1O/w1cDnyilFU=",
+	"CHANNEL_SECRET": "7d0aec3603a26539f7404b8e257a6395",
+    "ENDPOINT": "https://azure-language-service-ya.cognitiveservices.azure.com/",
+    "TEXT_ANALYTICS_API_KEY": "9aedd226e479474ba223f5bbf012a226"
+}
