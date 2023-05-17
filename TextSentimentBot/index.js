@@ -2,6 +2,7 @@
 
 const 	express = require('express'),
 		configGet = require('config'),
+		axios = require('axios'),
 		line = require('@line/bot-sdk');
 const { TextAnalyticsClient, AzureKeyCredential } = require("@azure/ai-text-analytics");
 
@@ -27,7 +28,7 @@ async function MS_TextSentimentAnalysis(event) {
 	const analyticsClient = new TextAnalyticsClient(endpoint, new AzureKeyCredential(apiKey));
 	let document = [];
 	document.push(event.message.text);
-	const results = await analyticsClient.analyzeSentiment(document);
+	const results = await analyticsClient.analyzeSentiment(document, 'zh-Hant', {includeOpinionMining:true});
 	return results;
 }
 
@@ -50,10 +51,32 @@ function handleEvent(event) {
 
 	MS_TextSentimentAnalysis(event)
 	.then((res) => {
-		const r = res[0].sentiment;
+		const sentiment = res[0].sentiment;
+		// Save to JSON server
+		const newData = {
+			"sentiment": sentiment,
+			"confidenceScore": res[0].confidenceScores[sentiment]
+		}
+		const axios_req = {
+			method: "post",
+			url: "https://apppppp-name-2365.azurewebsites.net/reviews",
+			headers: {
+				"content-type": "application/json"
+			},
+			data: newData
+		}
+
+		axios(axios_req)
+		.then ( (response) => {
+			console.log(JSON.stringify(response.data));
+		})
+		.catch ( (err) => {
+			console.error(err);
+		})
+
 		const msg = {
 			type: 'text',
-			text: sentiments_trans[r] + "。分數：" + res[0].confidenceScores[r]
+			text: sentiments_trans[sentiment] + "。分數：" + res[0].confidenceScores[sentiment]
 		};
 		return client.replyMessage(event.replyToken, msg);
 	})
